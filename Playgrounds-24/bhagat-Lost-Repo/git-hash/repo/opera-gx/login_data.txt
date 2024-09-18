@@ -1,0 +1,64 @@
+URL: 
+Email: 
+Password: 
+
+URL: 
+Email: 
+Password: 
+
+URL: 
+Email: 
+Password: 
+
+URL: 
+Email: 
+Password: 
+
+URL: https://www.udemy.com/join/login-popup/
+Email: llaaiitthhmmoohhaammmmaadd@gmail.com
+Password: t3Lj*DcjZuNYgq$cEKDXp@
+
+URL: 
+Email: 
+Password: 
+
+URL: 
+Email: 
+Password: 
+
+URL: http://192.168.1.1/myNetwork.html
+Email: admin
+Password: A3QKTV79
+
+URL: https://sso.teachable.com/secure/770707/identity/login/password
+Email: jordansec1337@gmail.com
+Password: KhP,DqTJ(>$U~ewAt5Q]LF
+
+URL: https://signup.heroku.com/confirmation
+Email: 
+Password: rF_Ge!AvA_77
+
+URL: 
+Email: 
+Password: 
+
+URL: https://justctfv5.leetspace.io/login
+Email: Toasters
+Password: TLQoJqhu13I7Zlq
+
+URL: https://1800.3cx.cloud/
+Email: laithsalman2522003@gmail.com
+Password: a?WNZgB62MG
+
+URL: https://ctf.cscpsut.com/login
+Email: Toasters
+Password: %dj;Ack?sT@rw'XBM}1&
+
+URL: 
+Email: 
+Password: 
+
+URL: 
+Email: 
+Password: 
+

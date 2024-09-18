@@ -1,0 +1,1986 @@
+Host Key: .bing.com
+Cookie Name: _EDGE_V
+Path: /
+Cookie: 1
+Expires On: 13369943456089287
+
+Host Key: .bing.com
+Cookie Name: SRCHD
+Path: /
+Cookie: AF=NOFORM
+Expires On: 13370807456089309
+
+Host Key: .bing.com
+Cookie Name: SRCHUID
+Path: /
+Cookie: V=2&GUID=A59F31E74E36413784EA7F92BF904E06&dmnchg=1
+Expires On: 13370807456089319
+
+Host Key: ntp.msn.com
+Cookie Name: sptmarket
+Path: /
+Cookie: en-US||jo|ar-ae|ar-ae|ar||RefA=85AB8B71DE844BB1BFFD64C9C453A519.RefC=2023-08-11T17:11:18Z
+Expires On: 13370807478693185
+
+Host Key: ntp.msn.com
+Cookie Name: MUIDB
+Path: /
+Cookie: 39FDB7428476672F01F5A42885CD6616
+Expires On: 13369943478693243
+
+Host Key: .msn.com
+Cookie Name: _EDGE_V
+Path: /
+Cookie: 1
+Expires On: 13369943478693272
+
+Host Key: api.msn.com
+Cookie Name: MUIDB
+Path: /
+Cookie: 39FDB7428476672F01F5A42885CD6616
+Expires On: 13369943479032436
+
+Host Key: assets.msn.com
+Cookie Name: MUIDB
+Path: /
+Cookie: 39FDB7428476672F01F5A42885CD6616
+Expires On: 13369943480320997
+
+Host Key: .scorecardresearch.com
+Cookie Name: UID
+Path: /
+Cookie: 18Bd91693ff604815651b261691773880
+Expires On: 13393371221307372
+
+Host Key: .www.linkedin.com
+Cookie Name: bscookie
+Path: /
+Cookie: "v=1&202308111711278eaf52e1-aee8-4f70-8f79-8decf5c03462AQEtMN9u-_ui8S8AwHfTDLvMkbIQcZpq"
+Expires On: 13386022934508407
+
+Host Key: .techradar.com
+Cookie Name: _parsely_visitor
+Path: /
+Cookie: {%22id%22:%22pid=8a6df7b1-effb-42d5-bbd0-444ce7c394ef%22%2C%22session_count%22:1%2C%22last_session_ts%22:1691773913931}
+Expires On: 13370411522000000
+
+Host Key: .techradar.com
+Cookie Name: _lc2_fpi
+Path: /
+Cookie: 373ef67898f1--01h7jsakpfjxbkn3ng1ctbswzz
+Expires On: 13370807514832215
+
+Host Key: .onetag-sys.com
+Cookie Name: OTP
+Path: /
+Cookie: p3gRxEg7ftkD9dvQG2djdsNOl_vzE3bs00ACRwusuCo
+Expires On: 13371642534000000
+
+Host Key: .techradar.com
+Cookie Name: _ga
+Path: /
+Cookie: GA1.1.1760489627.1691773914
+Expires On: 13370807517442091
+
+Host Key: .techradar.com
+Cookie Name: cto_bundle
+Path: /
+Cookie: AQboy19PdkZZNEJwRUhKViUyRnZWZllFd2syT0ZrNldIbGM1ZVR6cXZvbDR2T3RUUHZoSDFkMFllMlhlUUpSeW4yZWd0d1R4U0hhY1VSOUx6TGZBWkNZQkNhek9hTWElMkJmdFR4dDFIN1JQbWhXbjdXenJqMG55N2FwdFBnTzNabmVPTUJWM2lFJTJGdHBISTBEZkp4JTJCVFQ4RlB1Tzc5dyUzRCUzRA
+Expires On: 13369943517000000
+
+Host Key: .addthis.com
+Cookie Name: na_id
+Path: /
+Cookie: 2023081117115700021545961355
+Expires On: 13370461917814080
+
+Host Key: .addthis.com
+Cookie Name: na_tc
+Path: /
+Cookie: Y
+Expires On: 13370461917814712
+
+Host Key: .addthis.com
+Cookie Name: uid
+Path: /
+Cookie: 64d66bdda8912ef6
+Expires On: 13370461917814816
+
+Host Key: .addthis.com
+Cookie Name: ouid
+Path: /
+Cookie: 64d66bdd0001b6a212e7bca2a8b14a889fa465122f259d99b418
+Expires On: 13370461917814865
+
+Host Key: .rezync.com
+Cookie Name: zync-uuid
+Path: /
+Cookie: 2409db9c-c25e-40df-8983-af54e8a992b8:1691773917.9959142
+Expires On: 13369943519093889
+
+Host Key: .narrativ.com
+Cookie Name: uid_bam
+Path: /
+Cookie: 1816528412664278914
+Expires On: 13370807520763637
+
+Host Key: live.rezync.com
+Cookie Name: sd-session-id
+Path: /
+Cookie: .eJwNykEKwyAQQNG7zDqWUcfoeJlgdALSxpaYbhpy97r58OBfsHzk2FOTdkI8j69MkF91qEO8oNffLk-IoNkbDIQeg7UOzYwE9wRdeq_vttQyHkPIZeWssnGiCMumAger0uZIQmI2a4h6Zu29HXkwO9Zk4P4DsaIluA.ZNZr3g.WdrFP7Bwm76zQ2RZGDNX3bzPHHU
+Expires On: 13369943519094014
+
+Host Key: .techradar.com
+Cookie Name: __gads
+Path: /
+Cookie: ID=b17e60a8ae07d643:T=1691773918:RT=1691773918:S=ALNI_MYQZbcqDKQVlamg_Lh30Rzeg8iXww
+Expires On: 13369943518000000
+
+Host Key: .techradar.com
+Cookie Name: __gpi
+Path: /
+Cookie: UID=00000c7c4aa6ffa5:T=1691773918:RT=1691773918:S=ALNI_MZQ3posd60ZeENuCNgIQkda-plYvA
+Expires On: 13369943518000000
+
+Host Key: .socdm.com
+Cookie Name: SOC
+Path: /
+Cookie: ZNZr38Co8YQAAMY89jkAAAAA
+Expires On: 13370807519858188
+
+Host Key: .techradar.com
+Cookie Name: _ga_MYW5DMX4GQ
+Path: /
+Cookie: GS1.1.1691773917.1.0.1691773922.55.0.0
+Expires On: 13370807522848939
+
+Host Key: .stellarinfo.com
+Cookie Name: _ga
+Path: /
+Cookie: GA1.1.1251829395.1691773947
+Expires On: 13370807609334573
+
+Host Key: .stellarinfo.com
+Cookie Name: _uetvid
+Path: /
+Cookie: 3ee676e0386a11ee8630195e10410f7f
+Expires On: 13369943609000000
+
+Host Key: .stellarinfo.com
+Cookie Name: _ga_WXY8S185PY
+Path: /
+Cookie: GS1.2.1691773947.1.1.1691774009.60.0.0
+Expires On: 13370807609543098
+
+Host Key: .stellarinfo.com
+Cookie Name: _ga_K2SDBT950Q
+Path: /
+Cookie: GS1.1.1691773946.1.1.1691774010.59.0.0
+Expires On: 13370807610287353
+
+Host Key: discord.com
+Cookie Name: __dcfduid
+Path: /
+Cookie: 8d06bff0386b11eeb53e1d259b78228e
+Expires On: 13370808108141778
+
+Host Key: discord.com
+Cookie Name: __sdcfduid
+Path: /
+Cookie: 8d06bff1386b11eeb53e1d259b78228ec67663cf175815760927e8417d0f3f3a8bfa8af5c79a7791ed344d9bd710c267
+Expires On: 13370808108141807
+
+Host Key: .discord.com
+Cookie Name: _ga
+Path: /
+Cookie: GA1.1.889232535.1691774510
+Expires On: 13370808109649956
+
+Host Key: .discord.com
+Cookie Name: _ga_Q149DFWHT7
+Path: /
+Cookie: GS1.1.1691774509.1.1.1691774558.0.0.0
+Expires On: 13370808158336703
+
+Host Key: .lenovo.com
+Cookie Name: _pk_id.1.a9bf
+Path: /
+Cookie: c4e88fd5761d1208.1691774999.
+Expires On: 13370203799000000
+
+Host Key: .lenovo.com
+Cookie Name: s_ecid
+Path: /
+Cookie: MCMID%7C37437060449869692040672959101883988371
+Expires On: 13370808613406129
+
+Host Key: .lenovo.com
+Cookie Name: AMCV_F6171253512D2B8C0A490D45%40AdobeOrg
+Path: /
+Cookie: -1124106680%7CMCIDTS%7C19581%7CMCMID%7C37437060449869692040672959101883988371%7CMCAID%7CNONE%7CMCOPTOUT-1691782199s%7CNONE%7CMCAAMLH-1692379799%7C6%7CMCAAMB-1692379799%7Cj8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI%7CMCCIDH%7C0%7CvVersion%7C5.2.0
+Expires On: 13370808599929485
+
+Host Key: .lenovo.com
+Cookie Name: eservice_footprints_origins
+Path: /
+Cookie: https://support.lenovo.com
+Expires On: 13370808599968546
+
+Host Key: .kaspersky.com
+Cookie Name: demdex
+Path: /
+Cookie: 30054115498712934621665512445913060914
+Expires On: 13370808951737250
+
+Host Key: me.kaspersky.com
+Cookie Name: CookieConsent
+Path: /
+Cookie: {stamp:2017880584=='|Cnecessary:true|Cpreferences:true|Cstatistics:true|Cmarketing:true|Cver:1|Cutc:1413991911|Cregion:'not_gdpr'}
+Expires On: 13370808952222413
+
+Host Key: .kaspersky.com
+Cookie Name: s_ecid
+Path: /
+Cookie: MCMID%7C28777213396272359161821691826776995944
+Expires On: 13370809351769095
+
+Host Key: .kaspersky.com
+Cookie Name: FPID
+Path: /
+Cookie: FPID2.2.kt629YgXS27i77biMzjAzdgIMaV3bixHAcOPbj%2Fr2aM%3D.1691775353
+Expires On: 13370808962969627
+
+Host Key: me-en.kaspersky.com
+Cookie Name: CookieConsent
+Path: /
+Cookie: {stamp:1957689046=='|Cnecessary:true|Cpreferences:true|Cstatistics:true|Cmarketing:true|Cver:1|Cutc:1715412615|Cregion:'not_gdpr'}
+Expires On: 13370808959087385
+
+Host Key: .kaspersky.com
+Cookie Name: _uetvid
+Path: /
+Cookie: 84cbaaa0386d11eeb3a303a1e9d68394
+Expires On: 13369944959000000
+
+Host Key: .kaspersky.com
+Cookie Name: _cls_v
+Path: /
+Cookie: 446abfa7-b83f-44a1-8d66-cf1d6c37f550
+Expires On: 13370808959605666
+
+Host Key: .kaspersky.com
+Cookie Name: _ga_437PQ1XRPV
+Path: /
+Cookie: GS1.1.1691775352.1.1.1691775362.57.0.0
+Expires On: 13370808962857942
+
+Host Key: .google.com
+Cookie Name: HSID
+Path: /
+Cookie: At4EOtAt7M4AZDXpG
+Expires On: 13390649469369433
+
+Host Key: .google.com
+Cookie Name: SSID
+Path: /
+Cookie: A5cJ_CS-uWEq2GvAk
+Expires On: 13390649469369565
+
+Host Key: .google.com
+Cookie Name: APISID
+Path: /
+Cookie: CRcWrYKU66KrrVkb/AR6pH30kJKJfKkX7t
+Expires On: 13390649469369610
+
+Host Key: .google.com
+Cookie Name: SAPISID
+Path: /
+Cookie: bHRPMatELNCr445H/AGPhD3j9iozOPNwme
+Expires On: 13390649469369635
+
+Host Key: .google.com
+Cookie Name: __Secure-1PAPISID
+Path: /
+Cookie: bHRPMatELNCr445H/AGPhD3j9iozOPNwme
+Expires On: 13390649469369658
+
+Host Key: .google.com
+Cookie Name: __Secure-3PAPISID
+Path: /
+Cookie: bHRPMatELNCr445H/AGPhD3j9iozOPNwme
+Expires On: 13390649469369683
+
+Host Key: accounts.google.com
+Cookie Name: SMSV
+Path: /
+Cookie: ADHTe-AIJv8uK9e9OkWz7YfxgIqVa3eaXrmo87097TkiZTx2FxTrbZRikn11zuvig4iAEaTaeqMUgRI3y2q1xpPr6JnwbG-sGO2II4JtpRn66k31F3i2AL4
+Expires On: 13370809161919757
+
+Host Key: accounts.google.com
+Cookie Name: ACCOUNT_CHOOSER
+Path: /
+Cookie: AFx_qI4xxyFhg0Gd7zwKkVDELRDeMkvBbpyYwohH9uWWV8pXIoKETpxa-pfPNVpSToQNxru12y2n-DbWnn7IAimbkFgHQHYr_LHx6A_pmD7HivLY7_rblRDolE7pfDzm5lBtMeUtrAQCEE4LsaBhLnfUsXSvrOfA8g
+Expires On: 13370809162101459
+
+Host Key: .youtube.com
+Cookie Name: SID
+Path: /
+Cookie: ZwgdmhLQS2GEKShufRnCQKQDlC61d9BPQF3stXk8lELiFn0TsG_KLnqT02qfjAc6rrOslA.
+Expires On: 13370809162348285
+
+Host Key: .youtube.com
+Cookie Name: __Secure-1PSID
+Path: /
+Cookie: ZwgdmhLQS2GEKShufRnCQKQDlC61d9BPQF3stXk8lELiFn0TlO7fsz4rhxB0t5nWuEJlZw.
+Expires On: 13370809162348353
+
+Host Key: .youtube.com
+Cookie Name: __Secure-3PSID
+Path: /
+Cookie: ZwgdmhLQS2GEKShufRnCQKQDlC61d9BPQF3stXk8lELiFn0TtgtNsKftfKgPbHfYHY2kuA.
+Expires On: 13370809162348362
+
+Host Key: .youtube.com
+Cookie Name: HSID
+Path: /
+Cookie: ALjWgZSwfZOzZqvTw
+Expires On: 13370809162348372
+
+Host Key: .youtube.com
+Cookie Name: SSID
+Path: /
+Cookie: AzpLYvcTJF3nf81N4
+Expires On: 13370809162348381
+
+Host Key: .youtube.com
+Cookie Name: APISID
+Path: /
+Cookie: CRcWrYKU66KrrVkb/AR6pH30kJKJfKkX7t
+Expires On: 13370809162348389
+
+Host Key: .youtube.com
+Cookie Name: SAPISID
+Path: /
+Cookie: bHRPMatELNCr445H/AGPhD3j9iozOPNwme
+Expires On: 13370809162348398
+
+Host Key: .youtube.com
+Cookie Name: __Secure-1PAPISID
+Path: /
+Cookie: bHRPMatELNCr445H/AGPhD3j9iozOPNwme
+Expires On: 13370809162348409
+
+Host Key: .youtube.com
+Cookie Name: __Secure-3PAPISID
+Path: /
+Cookie: bHRPMatELNCr445H/AGPhD3j9iozOPNwme
+Expires On: 13370809162348419
+
+Host Key: .google.jo
+Cookie Name: SID
+Path: /
+Cookie: ZwgdmhLQS2GEKShufRnCQKQDlC61d9BPQF3stXk8lELiFn0TsG_KLnqT02qfjAc6rrOslA.
+Expires On: 13370809162966551
+
+Host Key: .google.jo
+Cookie Name: __Secure-1PSID
+Path: /
+Cookie: ZwgdmhLQS2GEKShufRnCQKQDlC61d9BPQF3stXk8lELiFn0TlO7fsz4rhxB0t5nWuEJlZw.
+Expires On: 13370809162966596
+
+Host Key: .google.jo
+Cookie Name: __Secure-3PSID
+Path: /
+Cookie: ZwgdmhLQS2GEKShufRnCQKQDlC61d9BPQF3stXk8lELiFn0TtgtNsKftfKgPbHfYHY2kuA.
+Expires On: 13370809162966609
+
+Host Key: .google.jo
+Cookie Name: HSID
+Path: /
+Cookie: ALjWgZSwfZOzZqvTw
+Expires On: 13370809162966620
+
+Host Key: .google.jo
+Cookie Name: SSID
+Path: /
+Cookie: AzpLYvcTJF3nf81N4
+Expires On: 13370809162966629
+
+Host Key: .google.jo
+Cookie Name: APISID
+Path: /
+Cookie: CRcWrYKU66KrrVkb/AR6pH30kJKJfKkX7t
+Expires On: 13370809162966637
+
+Host Key: .google.jo
+Cookie Name: SAPISID
+Path: /
+Cookie: bHRPMatELNCr445H/AGPhD3j9iozOPNwme
+Expires On: 13370809162966645
+
+Host Key: .google.jo
+Cookie Name: __Secure-1PAPISID
+Path: /
+Cookie: bHRPMatELNCr445H/AGPhD3j9iozOPNwme
+Expires On: 13370809162966655
+
+Host Key: .google.jo
+Cookie Name: __Secure-3PAPISID
+Path: /
+Cookie: bHRPMatELNCr445H/AGPhD3j9iozOPNwme
+Expires On: 13370809162966665
+
+Host Key: .kaspersky.com
+Cookie Name: _ga
+Path: /
+Cookie: GA1.1.17384058.1691775353
+Expires On: 13370809601989625
+
+Host Key: .kaspersky.com
+Cookie Name: _ga_6DT6GRST8Q
+Path: /
+Cookie: GS1.1.1691775761.1.1.1691776002.0.0.0
+Expires On: 13370809602070470
+
+Host Key: .kaspersky.com
+Cookie Name: _ga_VQ3EBXLL1H
+Path: /
+Cookie: GS1.1.1691775761.1.1.1691776002.0.0.0
+Expires On: 13370809602080562
+
+Host Key: .kaspersky.com
+Cookie Name: _ga_HT4H219JC1
+Path: /
+Cookie: GS1.1.1691775364.1.1.1691776046.0.0.0
+Expires On: 13370809646730219
+
+Host Key: .vencord.dev
+Cookie Name: __gads
+Path: /
+Cookie: ID=21db54e91fc7d3f1-22c0f3374ae0000b:T=1691778702:RT=1691778702:S=ALNI_Mbz7Sc4JrPcjFTG_0zTNqPxxqmpuA
+Expires On: 13369948302000000
+
+Host Key: .vencord.dev
+Cookie Name: __gpi
+Path: /
+Cookie: UID=00000c7c4da176f6:T=1691778702:RT=1691778702:S=ALNI_MYLu8OO6OtEZmwMd888omMvRZmm2g
+Expires On: 13369948302000000
+
+Host Key: .epicgames.com
+Cookie Name: EPIC_DEVICE
+Path: /
+Cookie: 11e2cc13a6c84e8e818d6242ac0e2665
+Expires On: 13370812423172942
+
+Host Key: .fortnite.com
+Cookie Name: EPIC_DEVICE
+Path: /
+Cookie: cbcf1cbd25ee41609b43f86e4690faf0
+Expires On: 13370812478763436
+
+Host Key: .twinmotion.com
+Cookie Name: EPIC_DEVICE
+Path: /
+Cookie: c722dca5f7704b0baf6fede778398c2c
+Expires On: 13370812478881306
+
+Host Key: .unrealengine.com
+Cookie Name: EPIC_DEVICE
+Path: /
+Cookie: 197159c63b9349929ef7f9c119d45f38
+Expires On: 13370812479079401
+
+Host Key: .mozilla.org
+Cookie Name: _ga
+Path: /
+Cookie: GA1.2.777850757.1691779671
+Expires On: 13370813272122538
+
+Host Key: .mozilla.org
+Cookie Name: _ga_MQ7767QQQW
+Path: /
+Cookie: GS1.1.1691779670.1.1.1691779832.0.0.0
+Expires On: 13370813432593698
+
+Host Key: .bing.com
+Cookie Name: ABDEF
+Path: /
+Cookie: V=13&ABDV=13&MRNB=1691780593103&MRB=0
+Expires On: 13370814193103009
+
+Host Key: .nvidia.com
+Cookie Name: nvweb_A
+Path: /
+Cookie: ffdc4b80-a255-4de1-8cd8-df9bf9af8c8f
+Expires On: 13370814197612804
+
+Host Key: www.nvidia.com
+Cookie Name: _gd_visitor
+Path: /
+Cookie: 8df6df45-e66f-410b-847f-dbf878f66a41
+Expires On: 13370814198299997
+
+Host Key: .nvidia.com
+Cookie Name: s_ecid
+Path: /
+Cookie: MCMID%7C47579531537853658515926007368743161931
+Expires On: 13370814249223948
+
+Host Key: .nvidia.com
+Cookie Name: AMCV_F207D74D549850760A4C98C6%40AdobeOrg
+Path: /
+Cookie: 179643557%7CMCMID%7C47579531537853658515926007368743161931%7CMCAID%7CNONE%7CMCOPTOUT-1691787798s%7CNONE%7CvVersion%7C5.5.0
+Expires On: 13370814198400789
+
+Host Key: .6sc.co
+Cookie Name: 6suuid
+Path: /
+Cookie: e0a0d5173dc30000f685d6640c0100008ba31300
+Expires On: 13380138985606074
+
+Host Key: .nvidia.com
+Cookie Name: _cs_c
+Path: /
+Cookie: 0
+Expires On: 13370418200000000
+
+Host Key: .nvidia.com
+Cookie Name: _evga_7830
+Path: /
+Cookie: {%22uuid%22:%2220a7ba9f8883fa1f%22}
+Expires On: 13370814246744547
+
+Host Key: .nvidia.com
+Cookie Name: _sfid_eb78
+Path: /
+Cookie: {%22anonymousId%22:%2220a7ba9f8883fa1f%22%2C%22consents%22:[{%22consent%22:{%22purpose%22:%22Personalization%22%2C%22provider%22:%22Consent%20Manager%22%2C%22status%22:%22Opt%20In%22}%2C%22lastUpdateTime%22:%222023-08-11T19:03:20.774Z%22%2C%22lastSentTime%22:%222023-08-11T19:03:20.779Z%22}]}
+Expires On: 13370814246471616
+
+Host Key: .t.co
+Cookie Name: muc_ads
+Path: /
+Cookie: cd3b4104-8aba-4d74-92fe-1bc7906548d3
+Expires On: 13370814201158325
+
+Host Key: .nvidia.com
+Cookie Name: _mkto_trk
+Path: /
+Cookie: id:560-NBS-753&token:_mch-nvidia.com-1691780601230-87445
+Expires On: 13370814247035857
+
+Host Key: www.nvidia.com
+Cookie Name: _wingify_pc_uuid
+Path: /
+Cookie: e80155faddbf4a4e8679eb89599a7e86
+Expires On: 13370814247123715
+
+Host Key: www.nvidia.com
+Cookie Name: wingify_donot_track_actions
+Path: /
+Cookie: 0
+Expires On: 13370814203944639
+
+Host Key: .nvidia.com
+Cookie Name: nvidiaCart
+Path: /
+Cookie: {"cart":[],"lastAction":null}
+Expires On: 13370814245612599
+
+Host Key: www.nvidia.com
+Cookie Name: _gd_svisitor
+Path: /
+Cookie: e0a0d5173dc30000f685d6640c0100008ba31300
+Expires On: 13370814228836605
+
+Host Key: .nvidia.com
+Cookie Name: _cs_id
+Path: /
+Cookie: 59a7780c-a983-a726-9942-caa83f813593.1691780600.1.1691780629.1691780600.1.1725944600500
+Expires On: 13370418200000000
+
+Host Key: .nvidia.com
+Cookie Name: mbox
+Path: /
+Cookie: session#5733e20bfa3f4e1aae83b8623b4c07dc#1691782506|PC#5733e20bfa3f4e1aae83b8623b4c07dc.37_0#1755025446
+Expires On: 13370814245104610
+
+Host Key: .howtogeek.com
+Cookie Name: usprivacy
+Path: /
+Cookie: 1---
+Expires On: 13371583828562000
+
+Host Key: .howtogeek.com
+Cookie Name: _ga
+Path: /
+Cookie: GA1.1.1172553872.1692982228
+Expires On: 13372015829345621
+
+Host Key: .howtogeek.com
+Cookie Name: __gads
+Path: /
+Cookie: ID=886dbe8403016ed4-22522ab15cde002b:T=1692982230:RT=1692982230:S=ALNI_MZhg_2QrpbOI4QFjimO_-bKY-ftmA
+Expires On: 13371151830000000
+
+Host Key: .howtogeek.com
+Cookie Name: __gpi
+Path: /
+Cookie: UID=00000c680ef004f0:T=1692982230:RT=1692982230:S=ALNI_MbrVjI6vGM3zxNn0V76Sw33gW38bA
+Expires On: 13371151830000000
+
+Host Key: .howtogeek.com
+Cookie Name: _awl
+Path: /
+Cookie: 2.1692982230.5-575720a20e11ec1339cfdb71d1ac0aea-6763652d6575726f70652d7765737431-0
+Expires On: 13371583829743000
+
+Host Key: .dnacdn.net
+Cookie Name: browser_data
+Path: /
+Cookie: 0Lxii19PdkZZNEJwRUhKViUyRnZWZllFd2syT0VwRWFGbGYlMkZkeW02ODlyQXJETm1mdzhPU3NuanJDRlZid0FmY01VYSUyRjVpWWNyZjNJZ1RFM2hFNWdJSXBtdVgxdyUzRCUzRA
+Expires On: 13371151831608685
+
+Host Key: .howtogeek.com
+Cookie Name: cto_bundle
+Path: /
+Cookie: i4U7bF9PdkZZNEJwRUhKViUyRnZWZllFd2syT0dqZzJXUTRlSjZKUzhDODhqclIlMkZVYkNJZTl3JTJGTzZwdmZtVTJ6UG9nenhpQUZvazh1N01VcExvQVVCTiUyRndBYXhuekNBV2VQUU9yWFpoWmttbWZ2T1BTc3h0Q0lYbiUyQjV1SzRJN2F2bEdpQ0pmQ3ZRcmVVcHZnSUclMkYyJTJGQTRaUkR2QSUzRCUzRA
+Expires On: 13371151831000000
+
+Host Key: .howtogeek.com
+Cookie Name: _ga_PVR2ZX9X91
+Path: /
+Cookie: GS1.1.1692982228.1.0.1692982235.53.0.0
+Expires On: 13372015835584396
+
+Host Key: .howtogeek.com
+Cookie Name: _ga_FVWZ0RM4DH
+Path: /
+Cookie: GS1.1.1692982229.1.0.1692982235.54.0.0
+Expires On: 13372015835597287
+
+Host Key: .chrome.google.com
+Cookie Name: _ga
+Path: /
+Cookie: GA1.3.930298352.1693818567
+Expires On: 13372852167646722
+
+Host Key: .youtube.com
+Cookie Name: LOGIN_INFO
+Path: /
+Cookie: AFmmF2swRQIgGoTZDBCaiy13-LB6LjpjoffkGeqcmGEmn0t1_RcGpBgCIQDWDKxGCQFBH4kSzPA0_bc5yofAEvTcHJVFwaTUia5beg:QUQ3MjNmeFJ2Rkt1TU90eldZWWM5alN1S3pDLUNFUVp0ZEVxM1RRby1fT3oxTzhydTY1U0VJUk16VGktNDZ1NXJrdFl0NDNEOVg2dndhWlllVDIzbk16aEtyT0ZFNnBLUnJXQUE1RjIxYjg2VEUxUU1BUTVOR1h5SzZJTTFnNlZWZThjZVNXVHRHQ21sTzdub040eUxIaU50bXl5UXF0SVRB
+Expires On: 13372852168706266
+
+Host Key: .chrome.google.com
+Cookie Name: _ga_Q3KJSFNQDY
+Path: /
+Cookie: GS1.1.1693818567.1.0.1693818690.0.0.0
+Expires On: 13372852290376968
+
+Host Key: .youtube.com
+Cookie Name: __Secure-3PSIDCC
+Path: /
+Cookie: APoG2W-ZYN2Gfkrw88ePveYoXZrI7XRQMYhUBqNyGMMMfLY_qAk_eQP8WgZUbEJXhVc-K379
+Expires On: 13369828290475136
+
+Host Key: .bing.com
+Cookie Name: MMCASM
+Path: /
+Cookie: ID=D6408CF8787F49F0B872AB354A5F8473
+Expires On: 13375583304657514
+
+Host Key: .bing.com
+Cookie Name: _IDET
+Path: /images
+Cookie: MIExp=0
+Expires On: 13375583306678155
+
+Host Key: .bing.com
+Cookie Name: _clck
+Path: /
+Cookie: 9mnvi9|2|fft|0|1373
+Expires On: 13373201938000000
+
+Host Key: .mitre.org
+Cookie Name: _ga
+Path: /
+Cookie: GA1.1.572317561.1697322408
+Expires On: 13376356041320470
+
+Host Key: .nist.gov
+Cookie Name: _ga
+Path: /
+Cookie: GA1.1.2121472125.1697322538
+Expires On: 13376356152110392
+
+Host Key: .nvd.nist.gov
+Cookie Name: __utma
+Path: /
+Cookie: 141729133.2121472125.1697322538.1697322540.1697322540.1
+Expires On: 13376356153071954
+
+Host Key: .mitre.org
+Cookie Name: _ga_WMM9G4KRDD
+Path: /
+Cookie: GS1.1.1697322408.1.1.1697322552.0.0.0
+Expires On: 13376356152133032
+
+Host Key: .nist.gov
+Cookie Name: _ga_4KKFZP12LQ
+Path: /
+Cookie: GS1.1.1697322538.1.1.1697322589.0.0.0
+Expires On: 13376356189613453
+
+Host Key: ubuntu.com
+Cookie Name: _cookies_accepted
+Path: /
+Cookie: all
+Expires On: 13373332193000000
+
+Host Key: .ubuntu.com
+Cookie Name: _mkto_trk
+Path: /
+Cookie: id:066-EOV-335&token:_mch-ubuntu.com-1697322594368-33296
+Expires On: 13376356293967804
+
+Host Key: .ubuntu.com
+Cookie Name: _ga
+Path: /
+Cookie: GA1.1.557300360.1697322587
+Expires On: 13376356294064287
+
+Host Key: ubuntu.com
+Cookie Name: sliguid
+Path: /
+Cookie: fab5db0a-32ad-4133-9809-818b92e6d4b0
+Expires On: 13373332294000000
+
+Host Key: ubuntu.com
+Cookie Name: slirequested
+Path: /
+Cookie: true
+Expires On: 13373332294000000
+
+Host Key: .nrich.ai
+Cookie Name: _nauid
+Path: /
+Cookie: cd928b26-5c04-4464-8128-529ea69d40ed
+Expires On: 13376356294952716
+
+Host Key: .ubuntu.com
+Cookie Name: _ga_5LTL1CNEJM
+Path: /
+Cookie: GS1.1.1697322596.1.1.1697322699.55.0.0
+Expires On: 13376356299745424
+
+Host Key: .ubuntu.com
+Cookie Name: _ce.s
+Path: /
+Cookie: v~a20936e770338de7e1e21ec3489eb3d66abc95db~lcw~1697322699718~vpv~0~v11.cs~30754~v11.s~6ee71d50-6ae1-11ee-a7d5-4da1d1cfc722~v11.sla~1697322699745~v11.send~1697322699718~lcw~1697322699746
+Expires On: 13373332299000000
+
+Host Key: dotnet.microsoft.com
+Cookie Name: MicrosoftApplicationsTelemetryDeviceId
+Path: /
+Cookie: ecb6b71b-52c4-4969-b337-7cfc2b964166
+Expires On: 13373333643348251
+
+Host Key: dotnet.microsoft.com
+Cookie Name: ai_user
+Path: /
+Cookie: x1+A2/sTnf7fYnC2KH/O5O|2023-10-14T22:54:04.510Z
+Expires On: 13373333644510930
+
+Host Key: dotnet.microsoft.com
+Cookie Name: MSFPC
+Path: /
+Cookie: GUID=61105945b77342a7a9d372ff7b7a25e3&HASH=6110&LV=202308&V=4&LU=1691773890460
+Expires On: 13373333647058331
+
+Host Key: learn.microsoft.com
+Cookie Name: MicrosoftApplicationsTelemetryDeviceId
+Path: /
+Cookie: 00ce7b7b-a743-462a-85a4-cac4c12b0bd0
+Expires On: 13373334029345532
+
+Host Key: .microsoft.com
+Cookie Name: mbox
+Path: /
+Cookie: session#48df323e62ed4465b5f32e2d55d34a99#1697326291|PC#48df323e62ed4465b5f32e2d55d34a99.37_0#1731504431
+Expires On: 13375978031000000
+
+Host Key: .c.bing.com
+Cookie Name: SRM_I
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13375494030914162
+
+Host Key: .c1.microsoft.com
+Cookie Name: SRM_I
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13375494031999896
+
+Host Key: learn.microsoft.com
+Cookie Name: MSFPC
+Path: /
+Cookie: GUID=61105945b77342a7a9d372ff7b7a25e3&HASH=6110&LV=202308&V=4&LU=1691773890460
+Expires On: 13373334032336207
+
+Host Key: .mytheresa.com
+Cookie Name: tc_cj_v2_cmp
+Path: /
+Cookie: %7D-%24%2F%20%2Ay%28%24%20
+Expires On: 13373478160670846
+
+Host Key: .mix-phoenix.commander1.com
+Cookie Name: tc_cj_v2
+Path: /
+Cookie: ~%24.%2B%27%7B4y%2B-%2AZZZ%7D-%24%2F%20%2AZZZKPSQNJSQPSJJJZZZpc_q
+Expires On: 13373419369883677
+
+Host Key: .mix-phoenix.commander1.com
+Cookie Name: tc_cj_v2_cmp
+Path: /
+Cookie: %7D-%24%2F%20%2Ay%28%24%20
+Expires On: 13373419369883788
+
+Host Key: .commander1.com
+Cookie Name: TCID
+Path: /
+Cookie: 202310160042498945444059
+Expires On: 13373419369883837
+
+Host Key: .mytheresa.com
+Cookie Name: CAID
+Path: /
+Cookie: 202310160042498945444059
+Expires On: 13373478160670869
+
+Host Key: .humanbenchmark.com
+Cookie Name: _ga
+Path: /
+Cookie: GA1.2.775255084.1697456965
+Expires On: 13376502164231004
+
+Host Key: .mytheresa.com
+Cookie Name: tc_cj_v2
+Path: /
+Cookie: ~%24.%2B%27%7B4y%2B-%2AZZZ%7D-%24%2F%20%2AZZZKPSQNPROOSJJJZZZpc_q
+Expires On: 13373478160670743
+
+Host Key: .humanbenchmark.com
+Cookie Name: _ga_K8GX2PDSX4
+Path: /
+Cookie: GS1.2.1697468564.2.0.1697468564.0.0.0
+Expires On: 13376502164864329
+
+Host Key: www2.bing.com
+Cookie Name: MUIDB
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13389785430728484
+
+Host Key: ntp.msn.com
+Cookie Name: MSFPC
+Path: /
+Cookie: GUID=d887dfb92a9e43b78fe09dfadee352eb&HASH=d887&LV=202310&V=4&LU=1698262287974
+Expires On: 13374271888278214
+
+Host Key: www.msn.com
+Cookie Name: sptmarket
+Path: /
+Cookie: en-us||fr|fr-fr|fr-fr|fr||RefA=67887680BDDD427E8125598C5E136CFC.RefC=2023-11-22T12:01:27Z
+Expires On: 13379688082430398
+
+Host Key: www.msn.com
+Cookie Name: MUIDB
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13378824083430421
+
+Host Key: www.msn.com
+Cookie Name: MicrosoftApplicationsTelemetryDeviceId
+Path: /
+Cookie: 6b681c4b-f42c-4340-b62b-37efc93810e1
+Expires On: 13390156751378505
+
+Host Key: www.crowdstrike.com
+Cookie Name: _gd_svisitor
+Path: /
+Cookie: e0a0d5173dc30000f685d6640c0100008ba31300
+Expires On: 13380138982246893
+
+Host Key: www.crowdstrike.com
+Cookie Name: _gd_visitor
+Path: /
+Cookie: 66daab0c-a34f-4ac4-8145-4fc6d1e7c361
+Expires On: 13380138982315412
+
+Host Key: .crowdstrike.com
+Cookie Name: kndctr_06D71E9261F941560A495CD6_AdobeOrg_identity
+Path: /
+Cookie: CiYyMTMzMTc4NTgyNzk5OTU4MTIzNDE4NjAwNDM5NjE5MDY3NzEwNFITCKb6oI7BMRABGAEqBElSTDEwAPABpvqgjsEx
+Expires On: 13379706985000000
+
+Host Key: .crowdstrike.com
+Cookie Name: AMCV_06D71E9261F941560A495CD6%40AdobeOrg
+Path: /
+Cookie: MCMID|21331785827999581234186004396190677104
+Expires On: 13379274985000000
+
+Host Key: .crowdstrike.com
+Cookie Name: _mkto_trk
+Path: /
+Cookie: id:281-OBQ-266&token:_mch-crowdstrike.com-1701105386101-21863
+Expires On: 13380138986102005
+
+Host Key: .crowdstrike.com
+Cookie Name: _uetvid
+Path: /
+Cookie: b22fa6908d4811ee80967391b96012ca
+Expires On: 13379274986000000
+
+Host Key: .crowdstrike.com
+Cookie Name: OptanonConsent
+Path: /
+Cookie: isGpcEnabled=0&datestamp=Mon+Nov+27+2023+20%3A16%3A26+GMT%2B0300+(GMT%2B03%3A00)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=fcfbb0de-4c72-4978-9979-7857fd6396f1&interactionCount=1&landingPath=https%3A%2F%2Fwww.crowdstrike.com%2Fcybersecurity-101%2Fransomware%2Ftypes-of-ransomware%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+Expires On: 13377114986000000
+
+Host Key: .colorscreen.io
+Cookie Name: _ga
+Path: /
+Cookie: GA1.1.1741214092.1702168215
+Expires On: 13381201815498026
+
+Host Key: .colorscreen.io
+Cookie Name: _ga_SNJ4K1T726
+Path: /
+Cookie: GS1.1.1702168215.1.1.1702168258.0.0.0
+Expires On: 13381201858073963
+
+Host Key: www.myfonts.com
+Cookie Name: secure_customer_sig
+Path: /
+Cookie: 
+Expires On: 13378424062989238
+
+Host Key: www.myfonts.com
+Cookie Name: localization
+Path: /
+Cookie: JO
+Expires On: 13378424053752891
+
+Host Key: .myfonts.com
+Cookie Name: _tracking_consent
+Path: /
+Cookie: %7B%22region%22%3A%22JOAM%22%2C%22reg%22%3A%22%22%2C%22v%22%3A%222.1%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%7D%7D%2C%22lim%22%3A%5B%22GDPR_BLOCK_ALL%22%5D%7D
+Expires On: 13378337653752935
+
+Host Key: .myfonts.com
+Cookie Name: _shopify_y
+Path: /
+Cookie: 08cae805-9aae-4ff0-bd14-977eb8a145c1
+Expires On: 13378337662989299
+
+Host Key: www.myfonts.com
+Cookie Name: site24x7rumID
+Path: /
+Cookie: 864082959924673.1702328053231.1702328053231
+Expires On: 13380065664000000
+
+Host Key: .myfonts.com
+Cookie Name: intercom-id-qxmc9m10
+Path: /
+Cookie: 266ca855-1310-4219-9c22-6513943e9a14
+Expires On: 13370131660000000
+
+Host Key: .myfonts.com
+Cookie Name: intercom-device-id-qxmc9m10
+Path: /
+Cookie: b93ecd00-9a95-4cd6-a465-62f0dd2331ba
+Expires On: 13370131661000000
+
+Host Key: .myfonts.com
+Cookie Name: _privy_8194D6E94D95CD7F2CEC7A36
+Path: /
+Cookie: %7B%22uuid%22%3A%222f527254-3f23-4187-81e5-f43c8d60f92d%22%2C%22variations%22%3A%7B%7D%2C%22country_code%22%3A%22JO%22%2C%22region_code%22%3A%22JO_AM%22%2C%22postal_code%22%3A%22%22%2C%22cart_value%22%3A0%7D
+Expires On: 13378337662000000
+
+Host Key: .fileinfo.com
+Cookie Name: _ga
+Path: /
+Cookie: GA1.1.1390693128.1702504101
+Expires On: 13381537701535119
+
+Host Key: .fileinfo.com
+Cookie Name: FCNEC
+Path: /
+Cookie: %5B%5B%22AKsRol82rPSjDySK2c3dVnxFzFicVcK_MuYMXZouEihFoiFaUa5EQKgEB4_cAm1BfyGCDG3sDrUCGWyGJ6Z-QE5q5v7USGDehhOy0kprqRhnAN-7PEhLb_33SBbDc9JyQdx_dgqbH1W8G9ttEhGlbQ-tCHU57NXJgg%3D%3D%22%5D%2Cnull%2C%5B%5B5%2C%22448%22%5D%5D%5D
+Expires On: 13378513703000000
+
+Host Key: .fileinfo.com
+Cookie Name: _ga_LLQNVLKP34
+Path: /
+Cookie: GS1.1.1702504101.1.1.1702504123.38.0.0
+Expires On: 13381537723139618
+
+Host Key: .tlauncher.org
+Cookie Name: _ym_uid
+Path: /
+Cookie: 1703687328198136433
+Expires On: 13379696928000000
+
+Host Key: .tlauncher.org
+Cookie Name: _ym_d
+Path: /
+Cookie: 1703687328
+Expires On: 13379696928000000
+
+Host Key: .tlauncher.org
+Cookie Name: cf_clearance
+Path: /
+Cookie: U6svSl9gCLoNnq3fM5afZdj7eYsH_.ESm26IzXizWCM-1703687328-0-2-db610447.d25a7336.8c605ba7-0.2.1703687328
+Expires On: 13379696928821735
+
+Host Key: .yandex.md
+Cookie Name: i
+Path: /
+Cookie: N2amiYEaDYieozTfvn80FaSajcx/yTn2pO4QypayyK4OYHCcwqSb0oF54bPqcCNWe3MD0URXKTS+aak+sTm3KmZO2D4=
+Expires On: 13382720930683330
+
+Host Key: .yandex.md
+Cookie Name: yandexuid
+Path: /
+Cookie: 8918133261703687330
+Expires On: 13382720930683360
+
+Host Key: .gamertweak.com
+Cookie Name: _clck
+Path: /
+Cookie: akz078%7C2%7Cfil%7C0%7C1481
+Expires On: 13381872138000000
+
+Host Key: .gamertweak.com
+Cookie Name: _ga
+Path: /
+Cookie: GA1.1.1400955108.1705862539
+Expires On: 13384896143519848
+
+Host Key: .gamertweak.com
+Cookie Name: dnsDisplayed
+Path: /
+Cookie: undefined
+Expires On: 13381872145103054
+
+Host Key: .gamertweak.com
+Cookie Name: ccpaApplies
+Path: /
+Cookie: false
+Expires On: 13381872145103312
+
+Host Key: .gamertweak.com
+Cookie Name: signedLspa
+Path: /
+Cookie: undefined
+Expires On: 13381872145103470
+
+Host Key: gamertweak.com
+Cookie Name: consentUUID
+Path: /
+Cookie: c29bbc2e-7151-4732-a68c-2e2cda89504c
+Expires On: 13381872145307472
+
+Host Key: .gamertweak.com
+Cookie Name: ccpaUUID
+Path: /
+Cookie: c7e37afa-b14a-4833-9f66-b58292d18acc
+Expires On: 13381872145369642
+
+Host Key: .gamertweak.com
+Cookie Name: __qca
+Path: /
+Cookie: P0-1196405265-1705862545862
+Expires On: 13384204946000000
+
+Host Key: .gamertweak.com
+Cookie Name: _ga_03QBY7S75Y
+Path: /
+Cookie: GS1.1.1705927293.2.0.1705927293.60.0.0
+Expires On: 13384960893437858
+
+Host Key: .gamertweak.com
+Cookie Name: _ga_0CPE0JFSCT
+Path: /
+Cookie: GS1.1.1705927293.2.0.1705927293.0.0.0
+Expires On: 13384960893458669
+
+Host Key: .bing.com
+Cookie Name: MSPTC
+Path: /
+Cookie: g2-JsYDotmjUSec7RnCZDfOlrg2ppeREY2RMH1ClKYs
+Expires On: 13384096896171139
+
+Host Key: .bard.google.com
+Cookie Name: _ga
+Path: /
+Cookie: GA1.1.829855447.1705927299
+Expires On: 13385242538005013
+
+Host Key: gradle.org
+Cookie Name: sm_anonymous_id
+Path: /
+Cookie: 33b373be-a5eb-4a83-af74-c35bd7719771
+Expires On: 13381948814000000
+
+Host Key: .g2.com
+Cookie Name: cf_clearance
+Path: /
+Cookie: 6uk9ketAFdHp4SWev.8bjhORa4xDBDjurmGefbp2Mfk-1705928416-1-AY4/ibK62hLOuB0DDsPe3iYWpk4n3stYO/cakjQiLXRy1mCdoIIQbkqSzDj56NkbbZjR/L5QLVQu3zNGNLKKilg=
+Expires On: 13381938015912088
+
+Host Key: .gradle.org
+Cookie Name: cb_user_id
+Path: /
+Cookie: null
+Expires On: 13381938016000000
+
+Host Key: .gradle.org
+Cookie Name: cb_group_id
+Path: /
+Cookie: null
+Expires On: 13381938016000000
+
+Host Key: .gradle.org
+Cookie Name: cb_anonymous_id
+Path: /
+Cookie: %22a7507f8d-c90d-4089-8e76-1a7cfb128ad3%22
+Expires On: 13381938016000000
+
+Host Key: .gradle.org
+Cookie Name: _hjSessionUser_2731112
+Path: /
+Cookie: eyJpZCI6ImVlOGE2MTEzLWQzZjMtNWIzMC04NTA4LWJjOGZkMzBlY2IzYiIsImNyZWF0ZWQiOjE3MDU5Mjg0MTYxNzAsImV4aXN0aW5nIjpmYWxzZX0=
+Expires On: 13381938016000000
+
+Host Key: gradle.org
+Cookie Name: sliguid
+Path: /
+Cookie: 6559e8cd-0fdf-421d-9545-d2f573945dee
+Expires On: 13381938016000000
+
+Host Key: gradle.org
+Cookie Name: slirequested
+Path: /
+Cookie: true
+Expires On: 13381938016000000
+
+Host Key: .gradle.org
+Cookie Name: _ga
+Path: /
+Cookie: GA1.2.971938181.1705928414
+Expires On: 13384962020430166
+
+Host Key: .pardot.com
+Cookie Name: visitor_id68052
+Path: /
+Cookie: 753202326
+Expires On: 13384962019324234
+
+Host Key: .pardot.com
+Cookie Name: visitor_id68052-hash
+Path: /
+Cookie: 3cc3fb89e838b9d7ca09cb5ca3c0f95af134437e12c2d875c28eec75908a9a526055f27a4ec78dbf9832f5f92c33b8c8d4e467d4
+Expires On: 13384962019324312
+
+Host Key: gradle.org
+Cookie Name: visitor_id68052
+Path: /
+Cookie: 753202326
+Expires On: 13384962019326905
+
+Host Key: gradle.org
+Cookie Name: visitor_id68052-hash
+Path: /
+Cookie: 3cc3fb89e838b9d7ca09cb5ca3c0f95af134437e12c2d875c28eec75908a9a526055f27a4ec78dbf9832f5f92c33b8c8d4e467d4
+Expires On: 13384962019327005
+
+Host Key: go.gradle.com
+Cookie Name: visitor_id68052
+Path: /
+Cookie: 753202326
+Expires On: 13384962020427252
+
+Host Key: go.gradle.com
+Cookie Name: visitor_id68052-hash
+Path: /
+Cookie: 3cc3fb89e838b9d7ca09cb5ca3c0f95af134437e12c2d875c28eec75908a9a526055f27a4ec78dbf9832f5f92c33b8c8d4e467d4
+Expires On: 13384962020427314
+
+Host Key: .gradle.org
+Cookie Name: _ga_7W7NC6YNPT
+Path: /
+Cookie: GS1.1.1705928415.1.1.1705928426.49.0.0
+Expires On: 13384962026127318
+
+Host Key: .jetbrains.com
+Cookie Name: first_utm_parameters
+Path: /
+Cookie: gradle.org|referral|referral|undefined|undefined|undefined
+Expires On: 13381506027000000
+
+Host Key: .jetbrains.com
+Cookie Name: last_utm_parameters
+Path: /
+Cookie: gradle.org|referral|referral|undefined|undefined|undefined
+Expires On: 13381506027000000
+
+Host Key: .jetbrains.com
+Cookie Name: _gtm_clarity
+Path: /
+Cookie: true
+Expires On: 13381938028359985
+
+Host Key: .jetbrains.com
+Cookie Name: cookie_country
+Path: /
+Cookie: JO
+Expires On: 13381880400000000
+
+Host Key: .jetbrains.com
+Cookie Name: _ga
+Path: /
+Cookie: GA1.2.84701624.1705928428
+Expires On: 13384962723405636
+
+Host Key: .jetbrains.com
+Cookie Name: _ga_9J976DJZ68
+Path: /
+Cookie: GS1.1.1705928428.1.1.1705929125.0.0.0
+Expires On: 13384962725929513
+
+Host Key: .oracle.com
+Cookie Name: s_fid
+Path: /
+Cookie: 35DBA6C26329D9D2-36B37B08594A6DE4
+Expires On: 13384964081031074
+
+Host Key: .oracle.com
+Cookie Name: ORA_FPC
+Path: /
+Cookie: id=083686a5-5a63-47d2-9a32-8489100ab359
+Expires On: 13384964057275532
+
+Host Key: .oracle.com
+Cookie Name: WTPERSIST
+Path: /
+Cookie: 
+Expires On: 13381940081000000
+
+Host Key: .oracle.com
+Cookie Name: utag_main
+Path: /
+Cookie: v_id:018d3160fc6000123ff86f7febbd0507d003307500fb8$_sn:1$_se:5$_ss:0$_st:1705932280767$ses_id:1705930456161%3Bexp-session$_pn:1%3Bexp-session
+Expires On: 13381940080000000
+
+Host Key: .google.com
+Cookie Name: __Secure-1PSIDTS
+Path: /
+Cookie: sidts-CjEBPVxjSiCRMYX1-pjWE8VCkiywbN-pD-No9ZwAFcwH9jFAH05q1nr1PiJUrrSqZfydEAA
+Expires On: 13382222337880293
+
+Host Key: .google.com
+Cookie Name: __Secure-3PSIDTS
+Path: /
+Cookie: sidts-CjEBPVxjSiCRMYX1-pjWE8VCkiywbN-pD-No9ZwAFcwH9jFAH05q1nr1PiJUrrSqZfydEAA
+Expires On: 13382222337880386
+
+Host Key: .bard.google.com
+Cookie Name: _ga_WC57KJ50ZZ
+Path: /
+Cookie: GS1.1.1706212476.5.1.1706213259.0.0.0
+Expires On: 13385246859329213
+
+Host Key: .bing.com
+Cookie Name: MSPTC
+Path: /
+Cookie: yJywj1a5xtYQnoL__WKCtIu4EuVlSJG17Wg4EigDrTI
+Expires On: 13384542432245801
+
+Host Key: copilot.microsoft.com
+Cookie Name: USRLOC
+Path: /
+Cookie: HS=1
+Expires On: 13386196538446756
+
+Host Key: copilot.microsoft.com
+Cookie Name: SRCHD
+Path: /
+Cookie: AF=NOFORM
+Expires On: 13386196538446772
+
+Host Key: copilot.microsoft.com
+Cookie Name: SRCHUID
+Path: /
+Cookie: V=2&GUID=571DDDA209F34242B5F08142A7561AF7&dmnchg=1
+Expires On: 13386196538446785
+
+Host Key: copilot.microsoft.com
+Cookie Name: SRCHUSR
+Path: /
+Cookie: DOB=20240205
+Expires On: 13386196538446800
+
+Host Key: copilot.microsoft.com
+Cookie Name: SRCHHPGUSR
+Path: /
+Cookie: SRCHLANG=en
+Expires On: 13386196538446814
+
+Host Key: bing.com
+Cookie Name: MUIDB
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13386462694102614
+
+Host Key: .audacityteam.org
+Cookie Name: cf_clearance
+Path: /
+Cookie: ETO7PWk0NX3dse54YFkPZPmCebqEfv.idaYO.m2JOMw-1708293096-1.0-AYMVxy5zvIb8tC9YgLxvjViqE/c7RtEZgpO9BfKCW7yogMf+hS8Xgh6u2wxKXppxNUkdY0TH7jDld2uSCd1GgMk=
+Expires On: 13384302696185209
+
+Host Key: .coursera.org
+Cookie Name: __204u
+Path: /
+Cookie: 1148780477-1708452799155
+Expires On: 13384462396794994
+
+Host Key: www.coursera.org
+Cookie Name: usprivacy
+Path: /
+Cookie: 1---
+Expires On: 13384462399000000
+
+Host Key: www.coursera.org
+Cookie Name: OneTrustWPCCPAGoogleOptOut
+Path: /
+Cookie: false
+Expires On: 13384462400000000
+
+Host Key: .coursera.org
+Cookie Name: OptanonConsent
+Path: /
+Cookie: isGpcEnabled=0&datestamp=Tue+Feb+20+2024+21%3A13%3A20+GMT%2B0300+(GMT%2B03%3A00)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.coursera.org%2Fprojects%2Fdeparture-personal-statement-interviews&groups=C0001%3A1%2CC0004%3A1%2CC0002%3A1%2CC0003%3A1
+Expires On: 13384462400000000
+
+Host Key: .bing.com
+Cookie Name: MSPTC
+Path: /
+Cookie: D8iuHhfWHYYTP0o4KBpML6v1hvYRHjMUN-28VgIhh4g
+Expires On: 13386622404482803
+
+Host Key: www.coursera.org
+Cookie Name: _tq_id.TV-63455409-1.39ed
+Path: /
+Cookie: 3ea08522a6ab859c.1708452805.0.1708452805..
+Expires On: 13387486404598562
+
+Host Key: .bat.bing.com
+Cookie Name: MSPTC
+Path: /
+Cookie: hi0NB9qYjFw7xPvnJFhcj1SRTbssXOp8pWEgshZ-FR4
+Expires On: 13386622404631062
+
+Host Key: .trkn.us
+Cookie Name: barometric[cuid]
+Path: /
+Cookie: cuid_94bdd9b1-cad4-407e-bcc9-2c0fe2101842
+Expires On: 13384462407831014
+
+Host Key: .adnxs.com
+Cookie Name: receive-cookie-deprecation
+Path: /
+Cookie: 1
+Expires On: 13387486408175828
+
+Host Key: .coursera.org
+Cookie Name: _uetvid
+Path: /
+Cookie: bcad4060d01b11ee87c413b3060f900d|57s5km|1708452950050|2|1|bat.bing.com/p/insights/c/v
+Expires On: 13386622550000000
+
+Host Key: sydney.bing.com
+Cookie Name: MUIDB
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13387829238311674
+
+Host Key: www.linkedin.com
+Cookie Name: g_state
+Path: /
+Cookie: {"i_l":0}
+Expires On: 13370038932000000
+
+Host Key: .hackthebox.com
+Cookie Name: _ga
+Path: /
+Cookie: GA1.1.1923516320.1710014038
+Expires On: 13389047637537669
+
+Host Key: .hackthebox.com
+Cookie Name: ajs_anonymous_id
+Path: /
+Cookie: 495cdcba-9e8f-4cf2-8ba6-db5e8514e684
+Expires On: 13386023638000000
+
+Host Key: .hackthebox.com
+Cookie Name: _ga_TKKV7WGJ6V
+Path: /
+Cookie: GS1.1.1710014037.1.0.1710014039.0.0.0
+Expires On: 13389047639777554
+
+Host Key: .google.com
+Cookie Name: SID
+Path: /
+Cookie: g.a000hwgdmu60YCb2V76C3wJykITUpVTjADZVA8fxQaKQiaP2Wzeelur2lgOr92WL3emjDv0LOAACgYKATcSAQASFQHGX2MiA_Sk-ImseeDJzHgYranorRoVAUF8yKotPZIKs1DBoEN1OZAClIwf0076
+Expires On: 13390649469369723
+
+Host Key: .google.com
+Cookie Name: __Secure-1PSID
+Path: /
+Cookie: g.a000hwgdmu60YCb2V76C3wJykITUpVTjADZVA8fxQaKQiaP2WzeewpesrbgpkKMWNPPL2rU22QACgYKAa0SAQASFQHGX2MilQWEMFk5PG7FoJJY76mE8BoVAUF8yKofGJEep35u6jjpI4z21NEO0076
+Expires On: 13390649469369744
+
+Host Key: .google.com
+Cookie Name: __Secure-3PSID
+Path: /
+Cookie: g.a000hwgdmu60YCb2V76C3wJykITUpVTjADZVA8fxQaKQiaP2Wzee3x9tXZVrT4eLHz3Nvp9P-gACgYKAcASAQASFQHGX2Midu-4KJMjHfNLfr3zLmCoPhoVAUF8yKq-fyqDALaTdK6X2lsJ3CQp0076
+Expires On: 13390649469369767
+
+Host Key: accounts.google.com
+Cookie Name: LSID
+Path: /
+Cookie: o.drive.google.com|s.JO|s.youtube:g.a000hwgdmkRDi9xCYNdTiAseGu0XTERHi4HoGQBHc_oTtRuLW6YjG99sfU9PhKZyRgEIjvDxtAACgYKAXwSAQASFQHGX2Mi_pOOq2hdUC1QKFKbiHQ1lhoVAUF8yKrKL6qmGU1MxSCWgsAXUVst0076
+Expires On: 13390649469837702
+
+Host Key: accounts.google.com
+Cookie Name: __Host-1PLSID
+Path: /
+Cookie: o.drive.google.com|s.JO|s.youtube:g.a000hwgdmkRDi9xCYNdTiAseGu0XTERHi4HoGQBHc_oTtRuLW6YjuX75zZ9IXfCqvfmbWRARgAACgYKAfgSAQASFQHGX2MiR-eNzC7RLHmTWPzJN_K1GBoVAUF8yKovboKFmI9avTvzIHWo3XhK0076
+Expires On: 13390649469837723
+
+Host Key: accounts.google.com
+Cookie Name: __Host-3PLSID
+Path: /
+Cookie: o.drive.google.com|s.JO|s.youtube:g.a000hwgdmkRDi9xCYNdTiAseGu0XTERHi4HoGQBHc_oTtRuLW6YjdusVH3NL1OTktWfZWlb9TAACgYKAU4SAQASFQHGX2MiDysDZ_Hb4H0Bh6RuFlNqzBoVAUF8yKorYAgQyCKgynukMTGUl6Kr0076
+Expires On: 13390649469837744
+
+Host Key: drive.google.com
+Cookie Name: OSID
+Path: /
+Cookie: g.a000hwgdmvmwnK_peaaho0JPpm68FReW6yUAGl5IVhz8OdoaHLhNI3qQlbQuE7R1Ls4uVv7_vgACgYKAWcSAQASFQHGX2MiU8qgXcPuWKfMchA4uhtcPxoVAUF8yKpmcQoBvHpy1UP8S4cR_la60076
+Expires On: 13390649469979186
+
+Host Key: drive.google.com
+Cookie Name: __Secure-OSID
+Path: /
+Cookie: g.a000hwgdmvmwnK_peaaho0JPpm68FReW6yUAGl5IVhz8OdoaHLhNOxke4W0eUPYhWqQzgzHSAQACgYKAQkSAQASFQHGX2Miv2Q9q2FGMx0taMMdvuS57RoVAUF8yKriiRpAlLUR2FPsvEE6sT2I0076
+Expires On: 13390649469979302
+
+Host Key: accounts.google.com
+Cookie Name: __Host-GAPS
+Path: /
+Cookie: 1:fA4tLxEqaZGQOxJuiIs_9U8I30gfH3gdATBFyqkYi1GWHL_LIOi-4saqg3rnP2oSZ2c5NZj0PmRkEt_VeWI3yPm16jSFoQ:RiAVKltZ9cGzbvAn
+Expires On: 13390649474040173
+
+Host Key: .google.com
+Cookie Name: NID
+Path: /
+Cookie: 512=iE4bnkae3iLbeMthO-vsx5nAb1wtkltmw5b1hBhiQZTWRS2THKEUyPlVGoQlf2dIZAlWQY8-VEsAslHtI3q9Q3mQkGHeQIDKy6ikhKN-_K3dCVkzIUTks1bZ9XySq7x_v4ONjyPvOSfEIADywKZq0xcpkRJh_nauU-kKU7n3Qy_NTy5_I_ChAuuTOPApECBoJwtL8ePHi2YWdna8ka_-YMJIsiWTPS1zMwQXdoUu_QEqOVjlO96-cmcI8vQn9jip6mHlQfjcmeMSIEhHGUZsqKHfK6fbOYO19aU
+Expires On: 13371900678309577
+
+Host Key: .google.com
+Cookie Name: SIDCC
+Path: /
+Cookie: AKEyXzW0rnAD4T4fEhxHUdlbhktHxcHPbYdfP-k7fvolUu55GgTLUORVhupg3Q29LCEnwDXTrg
+Expires On: 13387625508580629
+
+Host Key: .google.com
+Cookie Name: __Secure-1PSIDCC
+Path: /
+Cookie: AKEyXzUip10RZjW-PJHrbeZhag7f1ovAc51ZS8Y24xOFF1Of4bOdlrPh4iwKyAG54qTplZqKoYs
+Expires On: 13387625508580758
+
+Host Key: .google.com
+Cookie Name: __Secure-3PSIDCC
+Path: /
+Cookie: AKEyXzWSZMrwrqT7RGkab98rhAxjWDyYmOJgc-oXeqHJWBfoMLx3dIVA226bS2gMzSI8GnkH88Y
+Expires On: 13387625508580800
+
+Host Key: copilot.microsoft.com
+Cookie Name: MUID
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13390443148094613
+
+Host Key: .anydesk.com
+Cookie Name: _ga
+Path: /
+Cookie: GA1.2.1776452399.1713867114
+Expires On: 13392900720904431
+
+Host Key: anydesk.com
+Cookie Name: nQ_cookieId
+Path: /
+Cookie: a1b39dfe-887a-46c9-2a54-f46e00727014
+Expires On: 13389876729000000
+
+Host Key: .anydesk.com
+Cookie Name: __hstc
+Path: /
+Cookie: 261462610.21ff24d466dd57de80d1b89f875ad782.1713867114936.1713867114936.1713867114936.1
+Expires On: 13373892714000000
+
+Host Key: .anydesk.com
+Cookie Name: hubspotutk
+Path: /
+Cookie: 21ff24d466dd57de80d1b89f875ad782
+Expires On: 13373892714000000
+
+Host Key: .anydesk.com
+Cookie Name: has_downloaded
+Path: /
+Cookie: true
+Expires On: 13389876720000000
+
+Host Key: .anydesk.com
+Cookie Name: OptanonConsent
+Path: /
+Cookie: isGpcEnabled=0&datestamp=Tue+Apr+23+2024+13%3A12%3A00+GMT%2B0300+(GMT%2B03%3A00)&version=202301.2.0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0003%3A1%2CC0004%3A1%2CC0002%3A1%2CC0005%3A1%2CC0001%3A1&AwaitingReconsent=false
+Expires On: 13389876720000000
+
+Host Key: support.microsoft.com
+Cookie Name: EXPID
+Path: /
+Cookie: ef2f43ff-3eb6-4e52-8ea4-158e6e452bb8
+Expires On: 13389997458587455
+
+Host Key: .scorecardresearch.com
+Cookie Name: XID
+Path: /
+Cookie: 18Bd91693ff604815651b261691773880
+Expires On: 13393371221307500
+
+Host Key: .openai.com
+Cookie Name: oai-did
+Path: /
+Cookie: ab434b34-a042-4de5-8b58-77a867d929ad
+Expires On: 13389654019673776
+
+Host Key: .chat.openai.com
+Cookie Name: cf_clearance
+Path: /
+Cookie: V9_EdptbKkJJP1KBd9eZGSU_Vnu1_io.LokCmrmMgKk-1714337625-1.0.1.1-sbst2GETXPb5t42YANLDvBKm4T6HfGtvsIz2KkashGDmjFJiA14Xom23Ij3r.Ye4_OSuEfNNYTTEKkuCYqxTIQ
+Expires On: 13390347226920575
+
+Host Key: business.bing.com
+Cookie Name: MUIDB
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13392828896249350
+
+Host Key: api.msn.com
+Cookie Name: sptmarket
+Path: /
+Cookie: en-us||jo|ar-ae|ar-ae|ar||RefA=6637948b7d654acfb8a9391aeafe9b5c.RefC=2024-05-05T14:15:40Z
+Expires On: 13393692919176174
+
+Host Key: .msn.com
+Cookie Name: APP_ANON
+Path: /
+Cookie: A=1765D9B374858949A48A3BD9FFFFFFFF
+Expires On: 13374684920176192
+
+Host Key: .msn.com
+Cookie Name: aace
+Path: /
+Cookie: %7b%22child%22%3a0%7d
+Expires On: 13374684920176210
+
+Host Key: .msn.com
+Cookie Name: els
+Path: /
+Cookie: %7b%22account_type%22%3a%22MSA%22%7d
+Expires On: 13374684920176225
+
+Host Key: .bing.com
+Cookie Name: _TTSS_IN
+Path: /
+Cookie: isADRU=1&hist=WyJlbiIsImF1dG8tZGV0ZWN0Il0=
+Expires On: 13393692960519677
+
+Host Key: .bing.com
+Cookie Name: _tarLang
+Path: /
+Cookie: default=ar
+Expires On: 13393692963975010
+
+Host Key: .bing.com
+Cookie Name: _TTSS_OUT
+Path: /
+Cookie: hist=WyJlbiIsImFyIl0=
+Expires On: 13393692963975723
+
+Host Key: .psut.edu.jo
+Cookie Name: _ga
+Path: /
+Cookie: GA1.3.1251759571.1716640992
+Expires On: 13395674592324679
+
+Host Key: www.clarity.ms
+Cookie Name: CLID
+Path: /
+Cookie: 3f3ddad6f14d4a3da082e59a69af73ad.20230811.20250624
+Expires On: 13395218159222696
+
+Host Key: .clarity.ms
+Cookie Name: MUID
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13397378174861151
+
+Host Key: www.microsoft.com
+Cookie Name: MicrosoftApplicationsTelemetryDeviceId
+Path: /
+Cookie: e7f1bafc-2544-42a2-bb73-a766218585ae
+Expires On: 13395218159672549
+
+Host Key: .microsoft.com
+Cookie Name: _fbp
+Path: /
+Cookie: fb.1.1706372832062.169745024
+Expires On: 13371458161000000
+
+Host Key: .microsoft.com
+Cookie Name: _uetvid
+Path: /
+Cookie: 1b813480386a11ee876a2f9144dde8a1
+Expires On: 13397378160000000
+
+Host Key: .linkedin.com
+Cookie Name: bcookie
+Path: /
+Cookie: "v=2&7826e812-81ce-462e-8f26-1ad24c3ba460"
+Expires On: 13395218164418677
+
+Host Key: .linkedin.com
+Cookie Name: li_sugr
+Path: /
+Cookie: e7043cbc-8c22-4f9d-861b-2f140763372d
+Expires On: 13371458163418545
+
+Host Key: .bing.com
+Cookie Name: BCP
+Path: /
+Cookie: AD=0&AL=0&SM=0
+Expires On: 13395304589000000
+
+Host Key: .msn.com
+Cookie Name: MUID
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13397464584074408
+
+Host Key: .c.bing.com
+Cookie Name: SRM_B
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13397464583732484
+
+Host Key: .c.bing.com
+Cookie Name: SRM_M
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13397464583732613
+
+Host Key: .c.msn.com
+Cookie Name: SRM_M
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13397464584074444
+
+Host Key: microsoftedge.microsoft.com
+Cookie Name: MSFPC
+Path: /
+Cookie: GUID=61105945b77342a7a9d372ff7b7a25e3&HASH=6110&LV=202308&V=4&LU=1691773890460
+Expires On: 13395304636845905
+
+Host Key: microsoftedge.microsoft.com
+Cookie Name: MicrosoftApplicationsTelemetryDeviceId
+Path: /
+Cookie: 18f20b90-0772-4c38-b0e9-0a381c6ac5df
+Expires On: 13395304634125581
+
+Host Key: .bing.com
+Cookie Name: MUID
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13398302617738125
+
+Host Key: .microsoft.com
+Cookie Name: _clck
+Path: /
+Cookie: 1as2yno%7C2%7Cfn6%7C1%7C1318
+Expires On: 13396142609000000
+
+Host Key: .adnxs.com
+Cookie Name: anj
+Path: /
+Cookie: dTM7k!M4.FEVNsVF']wIg2Ildm@+'.!m9*WM+1(7#`qT^IzaaZih.1^JBj3N4n`Vs5:$.x4RTC1^Za?J3]npr5+mht4L3GoV!!e$*/hNV!2>h9/+0J2!(fzxWL([n
+Expires On: 13372382618665795
+
+Host Key: .adnxs.com
+Cookie Name: uuid2
+Path: /
+Cookie: 7733086193860692587
+Expires On: 13372382618665852
+
+Host Key: .adnxs.com
+Cookie Name: XANDR_PANID
+Path: /
+Cookie: mlpnqw8WY5KLBW-TinxeSPgRBSfqPDJRhjQfeRl28PGgym8jdShQCVKtbRVGC84OfZ5F625P8X1xl_zqOTDrabM7y9mk5oYB8K9iueDjZ1Y.
+Expires On: 13372382618665696
+
+Host Key: .adnxs.com
+Cookie Name: receive-cookie-deprecation
+Path: /
+Cookie: 1
+Expires On: 13399166618665822
+
+Host Key: .3lift.com
+Cookie Name: tluidp
+Path: /
+Cookie: 2511732067556018611354
+Expires On: 13372382617172641
+
+Host Key: ntp.msn.com
+Cookie Name: MicrosoftApplicationsTelemetryDeviceId
+Path: /
+Cookie: ca3f2f53-15ea-40ba-8218-9131c0596555
+Expires On: 13396189414084262
+
+Host Key: .msn.com
+Cookie Name: pglt-edgeChromium-ntp
+Path: /edge
+Cookie: 41
+Expires On: 13380378214000000
+
+Host Key: 4.bing.com
+Cookie Name: MUIDB
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13399132414399889
+
+Host Key: .login.live.com
+Cookie Name: MSCC
+Path: /
+Cookie: 212.34.19.233-JO
+Expires On: 13400816024234433
+
+Host Key: .bing.com
+Cookie Name: GC
+Path: /
+Cookie: WuPXQPJNKNwZq0MQPvP86nkik_346A2GYKevCSHJZQ3nCsSBZaYWy33VnbzvL0bpGI-NuoyWyEp6ULyRVAtwxA
+Expires On: 13369693966255131
+
+Host Key: .bing.com
+Cookie Name: KievRPSSecAuth
+Path: /
+Cookie: FACSBBRaTOJILtFsMkpLVWSG6AN6C/svRwNmAAAEgAAACB97rVv1HylyUAQtqgX6CeZVeNcBgpZnxpbWcrjqeslZ6J/ZTrrTO9IeSa0tp6LyYYQcfG5N0HL2xN6OAk+02TiC/bU0J44jTCT1jbef1Uit+Vo8514zanUDfZueSAT8pXlkvzE7SknTFLBr7dEWn40M2r+QIfRnwFwg7a0ODCQANQODYKZbvMSiOOlib/CZsmXz7ja3xgj5fZF5evGwNWt31sHUHyvkEjHD13ZqHcybuc11X3Tau7oFlz+h/LRjjKWNuTbgB2TyHqYNZZ2K+vK0bwkTIw/2qtaJPQNxOmK5UJZVuEe9ThOiHKhxxt+Xn2yzcejOzGldoLfxqqhs6dAW5ABiFw+3cdOTxdQJP8AYr6A0TGiN6jemZSK3UOhZyLLIXQhw/LV3IdzWv3pALs95spT5zy18iQM8bsi9lUJWwsKwk+LXtsINKbNmPyIufmK/Cf4rEz4wZaCllKmWIJF54rVM4n4T02Ujk0iPlqEr61fw3124zd//xK1VCN90GAAMinun9bdWP56naVxGLevi9BehE+f+h6fDKLSQjqV56zmA9MOn1ydk9yQY/HR3tvKTQeKECblWLE80UAgH4D6DpcesZceZDJH8uk2iTyPM7wmGj1ISDmtRcisOL5SRmDRqD9lxHQ7PoIJ+A/buMhsQ3NdVnQY7IfeTaUVja4aCx/1TnVpBePrJdupjQePbj0sCQW1lLlb8yKhmDWHV2PK7tBq2fTDrJjK1IB90WqOYMpl4ax2T4ChTl/U3+TgEITrAOiAJ2ZS6az0Bk0kGcihr7o6tx8UvDZwmrjfm4Wjzj2ImljJKpUk8OXJTlpS6UbfC3M3CACO8Bd9JgOF44X4Ml3shIXFF7lHnuHEontpu0jI5TnY6htI4jukWQY1FCTDzDF4UnxeOdh+ylGO9PZx3cyr6rBii8uIVBNlBAFQhMGtTzOjtQ/eK2qr3cH7pjTFuEdcTUwoSqP3q+r3Nk2su8gJmwp9RxegSVUCnsqG+OMX7FKKfox7qD7wDTqEB7FyW5GHUWXvzKWSOP8g1t5455DDIUWWbVR3pODbHHYevWDeH+bfs88aA3shzXd7lbQ5x22PiIG5mCB6GBWYG96mvZe1x2mIYqmoWXJiZdpgzdYYFxO1dRHqbDEgSr791CDHbvtBi4lQgmLIuMQb1NFDwhs+RnKmsjm97jvOyEaJpq7STzxtPn/jP1o7VOp6/uUHjKukYimM62uxzL5mzcOnF/JcS/hG0n13Sla2E1j12eLnZpTr5t3pEM1DqR+cryGblpbBH266nLQsjrz8gHKN/K5VjHvWA3NZj28WVkd4CKF76GFnpLKPlyWCWio42dZbd0NbjGMmajyyVutVWBgX5T4kk5vOIR+k5dMZ52pu2YEk9kwfFCJJeMj9Kyh5PHHBRaWaAB/QerFEqK0N+ERCq1crgKyXjmIMBZXC3i3OoMJgskLFBkLUoR/KNXK/iQxlHzpkIkDUS6gEUAJpaJpn8K/c3z5FFbYfcYeaGLpUo
+Expires On: 13404167569148450
+
+Host Key: .bing.com
+Cookie Name: PPLState
+Path: /
+Cookie: 1
+Expires On: 13404167569148424
+
+Host Key: .bing.com
+Cookie Name: SRCHUSR
+Path: /
+Cookie: DOB=20230811&T=1725133960000&POEX=W
+Expires On: 13404167569162829
+
+Host Key: .bing.com
+Cookie Name: USRLOC
+Path: /
+Cookie: HS=1&ELOC=LAT=31.99346923828125|LON=35.89299774169922|N=Sweileh%2C%20Amman|ELT=10|&BID=MjQwODMxMjI1MjQyXzU2ZmZiMjlhNTgwNWQyYzVhZGQxZTFkODlmNGM2NjFlZjc0ZTViYzNlZmZkZDE5NWY5MmUzOWE0ZDc3NjI0YjE=
+Expires On: 13404167562236645
+
+Host Key: .msn.com
+Cookie Name: USRLOC
+Path: /
+Cookie: BID=MjQwODMxMjI1MjQyXzU2ZmZiMjlhNTgwNWQyYzVhZGQxZTFkODlmNGM2NjFlZjc0ZTViYzNlZmZkZDE5NWY5MmUzOWE0ZDc3NjI0YjE=
+Expires On: 13370807478693215
+
+Host Key: login.microsoftonline.com
+Cookie Name: buid
+Path: /
+Cookie: 0.AUcAMe_N-B6jSkuT5F9XHpElWnmtoZ62_ZpPi8MrcPluNMcBAAA.AQABGgEAAAApTwJmzXqdR4BN2miheQMYane6-zEctYvbQEuTNL-a2kQYXegx2Xksij3W4fVacLn2zHfwQkDPT3Gw6RbNo4wBuWRZmVuNoZMq-c9l5URjH5nCTXgJOLjaRYoi6AqMt-IgAA
+Expires On: 13372199564366461
+
+Host Key: login.microsoftonline.com
+Cookie Name: fpc
+Path: /
+Cookie: AjoiehmjhrRBga8sqnWdnpaCeMQLAQAAAItrZd4OAAAA
+Expires On: 13372199564366630
+
+Host Key: .bing.com
+Cookie Name: EDGSRCHHPGUSR
+Path: /
+Cookie: CIBV=1.1805.0
+Expires On: 13404167579651358
+
+Host Key: .bing.com
+Cookie Name: WLID
+Path: /
+Cookie: TjPA3E8ZVtJf/epZsQe5GlR7Dui2rXjkvdSLqMFtg4hDZruLnFSRkBEpMWSwsq5XZL4bsagn/h0ZkH8Coe6XZ0caMcbnX+Yqbe0bf3soqnA=
+Expires On: 13370817171734267
+
+Host Key: .bing.com
+Cookie Name: _RwBf
+Path: /
+Cookie: mta=0&rc=155&rb=155&gb=0&rg=0&pc=155&mtu=0&rbb=0.0&g=0&cid=&clo=0&v=1&l=2024-08-31T07:00:00.0000000Z&lft=0001-01-01T00:00:00.0000000&aof=0&o=0&p=BINGCOPILOTWAITLIST&c=MR000T&t=2688&s=2023-06-21T18:38:59.8483126+00:00&ts=2024-08-31T19:52:44.4208730+00:00&rwred=0&wls=2&wlb=0&lka=0&lkt=0&TH=&e=od_rS01PbSXsxVvqSPWQS3tVAtXoVKl5VYaYyubCz8Zd9QS0lNfhlM39vdv6Ll_fFKzkIadkQ3AEvguANYizHnWwH83BpC_0KXgoDAXiVAs&A=1765D9B374858949A48A3BD9FFFFFFFF&dci=0&wle=0&ccp=2&aad=0&ard=0001-01-01T00:00:00.0000000&rwdbt=0001-01-01T16:00:00.0000000-08:00&rwflt=0001-01-01T16:00:00.0000000-08:00&cpt=0
+Expires On: 13404167571230283
+
+Host Key: .edgeservices.bing.com
+Cookie Name: CUID
+Path: /
+Cookie: YTECQ4LAErD8BcsuK1aXyxO9cjc=
+Expires On: 13401147172352161
+
+Host Key: edgeservices.bing.com
+Cookie Name: EDGSRVC
+Path: /
+Cookie: darkschemeovr=displaytheme=edgeservices&EN=language=edgeservices
+Expires On: 0
+
+Host Key: edgeservices.bing.com
+Cookie Name: EDGSRVCPERSIST
+Path: /
+Cookie: b''
+Expires On: 13401147173692460
+
+Host Key: edgeservices.bing.com
+Cookie Name: EDGSRVCSCEN
+Path: /
+Cookie: shell=clientscopes=noheader-cspgrd-coauthor-chat-visibilitypm-devtoolsapi-udsedgeshop-wincopilot-udsinwin11-ntpquery-udsdlpconsent-udsfrontload-docvisibility-channelstable&chat=clientscopes=chat-noheader-udsedgeshop-channelstable-wincopilot-ntpquery-devtoolsapi-udsinwin11-udsdlpconsent-udsfrontload-cspgrd
+Expires On: 0
+
+Host Key: edgeservices.bing.com
+Cookie Name: MUIDB
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13403307175797322
+
+Host Key: .bing.com
+Cookie Name: WLS
+Path: /
+Cookie: C=310f6519a552fb49&N=laith
+Expires On: 0
+
+Host Key: copilot.microsoft.com
+Cookie Name: WLS
+Path: /
+Cookie: C=310f6519a552fb49&N=laith
+Expires On: 0
+
+Host Key: .bing.com
+Cookie Name: _EDGE_S
+Path: /
+Cookie: SID=3A80A19A571965151090B576568064A1
+Expires On: 0
+
+Host Key: copilot.microsoft.com
+Cookie Name: _EDGE_S
+Path: /
+Cookie: SID=392569CF2F88602030BC7D232ECA6193
+Expires On: 0
+
+Host Key: .bing.com
+Cookie Name: _SS
+Path: /
+Cookie: SID=3A80A19A571965151090B576568064A1
+Expires On: 0
+
+Host Key: copilot.microsoft.com
+Cookie Name: _SS
+Path: /
+Cookie: SID=392569CF2F88602030BC7D232ECA6193
+Expires On: 0
+
+Host Key: .microsoft.com
+Cookie Name: bm_sv
+Path: /
+Cookie: EED184A86D77A901A9BD72BB93549D7E~YAAQl6pkXzDm8KiRAQAAODWkqhg5CifDPwLMZpgwrFpT2rUhOAMqFfsP9zlUQw7/WxLJzDpx/M0tsSwsR4KiPliQVbPk1f/K1xPyLMzqZsjTK0gMz1u+AHwrijZq60GnRIUdQ6Kp5uOht2+LAmDvFeP9Nrt3ghyiCA6SdODmZGcSELVYkFXRYJj9E2VT70VQBnBay2NzqZ3CR/TyveT/07bwxGM9sDAJ62UuiAPNYrslMem4Vf+Ddo8VZ8/BY5RSBbOJ~1
+Expires On: 13369625574182665
+
+Host Key: .bing.com
+Cookie Name: ANON
+Path: /
+Cookie: A=1765D9B374858949A48A3BD9FFFFFFFF&E=1e30&W=1
+Expires On: 13404181975070936
+
+Host Key: copilot.microsoft.com
+Cookie Name: ANON
+Path: /
+Cookie: A=1765D9B374858949A48A3BD9FFFFFFFF&E=1ce5&W=1
+Expires On: 13404181975438588
+
+Host Key: copilot.microsoft.com
+Cookie Name: MUIDB
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13403317975438486
+
+Host Key: www.bing.com
+Cookie Name: MUIDB
+Path: /
+Cookie: 1C2C94FA569566F6097687905748671E
+Expires On: 13403317975070683
+
+Host Key: .bing.com
+Cookie Name: SRCHHPGUSR
+Path: /
+Cookie: SRCHLANG=en&IG=6D02749A569A47099B421BBA95435FC6&PV=15.0.0&BRW=XW&BRH=T&CW=2552&CH=1280&SCW=2537&SCH=2680&DPR=1.0&UTC=180&DM=1&EXLTT=5&HV=1725133967&PRVCW=1488&PRVCH=706&WTS=63860730760&THEME=0&SPLSCR=1&CIBV=1.1805.0&WEBTHEME=0
+Expires On: 13404181975070808
+
+Host Key: .bing.com
+Cookie Name: _U
+Path: /
+Cookie: 12M_oEI02YOEA99Fn1AQU5waOLghCnPq3Jzx0JcMxV99IZzo1DKI6ESkK5An-ofksbaz7F-NVVsS3ZgKwX6umKYlM8R5AoZtIs8zcSUmzd_AS7GJQZ7ebpJBepK-uyB5YLp-lQHSFKxeg0lxp6xiP4tWp2CoHN8KFrx-iZMtWuxQRtK00ulY1XSyX_3YyC_ZOS2hdJKxDefgkE690PDGw5vFou5nug1Kd66-605frHlg
+Expires On: 13370831575070882
+
+Host Key: copilot.microsoft.com
+Cookie Name: _U
+Path: /
+Cookie: 12M_oEI02YOEA99Fn1AQU5waOLghCnPq3Jzx0JcMxV99IZzo1DKI6ESkK5An-ofksbaz7F-NVVsS3ZgKwX6umKYlM8R5AoZtIs8zcSUmzd_AS7GJQZ7ebpJBepK-uyB5YLp-lQHSFKxeg0lxp6xiP4tWp2CoHN8KFrx-iZMtWuxQRtK00ulY1XSyX_3YyC_ZOS2hdJKxDefgkE690PDGw5vFou5nug1Kd66-605frHlg
+Expires On: 13370831575438561
+
+Host Key: .microsoft.com
+Cookie Name: ak_bmsc
+Path: /
+Cookie: 037327F2E0E58F3F42EC5BD7C0303192~000000000000000000000000000000~YAAQl6pkX4FZ8aiRAQAA2ibbqhjSz97IhjMwbD8Kw8ArmDZYxxLGNkgs0SGQCEvYwGjEzlfgt/xSW0Zna9TxFaNlTOKWlZkVVDGNRDIuOlzvNKDEsPeRBK+RKO6/wh0C/KRcMa5lBWaPpCcKxo4msyaZ8/D6izXOsnjPRcDnC1/nhMQyBBCPIjZGrI3pSB0xwd0Wa6LcwIKfRCQi8YyskpvD4qdWcGId/1Ld41Shf2dqugmSTSGgj8ZLNw+Ux6D8E/pWDv2/1m16c3CUUMH6KGhi7cHdOVHNcYOBm09LgfJ/a55LfWkzdTrm2RGJCRJPkel2jmz6j4b/DnvTWUQilm5MhIRFAcKOrNI1VIet120VSSambSxBt6Cb3kql3pSA2XzCnT6tZrY/pLys7Ra0/yQldu3R9tauXMTuFFhMxOkz
+Expires On: 13369629175438979
+
+Host Key: .msn.com
+Cookie Name: elt
+Path: /
+Cookie: %7B%22access_token%22%3A%22eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ4NXQiOiJFY2tFODJLeld2ZGc1RFhkZ1c5LUUyU2ZYbGciLCJ6aXAiOiJERUYifQ.SXQW_RvwtNBZ2sDfB8teV7E2KWdukZufkSWVuA_sFjAnznioOIuMyrokqqzmBKI0mDkMppFDM43xKgYU51-m6f9M7hgsDQikcdMVdE4CXB7nW2FntivwV2pEQTXczwYZAjM9ZTYRKAUMDomAheyAx4wilERZ_bNf94L0ewDgBCbilVgOkmV3l524T3YG0alP89S6d5xy3aN6SSKfCTqAjEWUI5treKk161qowOs86SjQQU7UK-NW0ViPr7OxG0_UU5NFsiF_yPBEkl5vB-dY3_VIM_JNSJ8QEsENtubdqFim9cefIZa2BAnT0aIIA6JK5YQbdmBOUvLpj_yvYE3bzg.q7JwJPxmoh2DVLZ1xB01YA.m1tu9MrFwR04u9_AkiOjBdK-WiTg2T3pp73A4ZXHsODzUanQMaM_KPeTlDMMeqSTsSLjupup_EUEkqXWjLau9rAmvizk8l7ywk9wTeVIoUHzoWwxRj7-kdxKVY5A5VbsYrbUyt8_UeadR7bWCA6bnFwvDBDgZkX1xWTFrBuONOeV7r7h0RLyQLI_gGLZhr6MAFa1wIobdz81S4LlYXEWkBr104kqkhzYclGuwqQ4GS1ytYT4rKOUz7ANRHCOOIcAmrktw2hwvqt51gLAGGYol3OKSvNgS-2yYHSPe8VjBA1c8bJzSjmCHeiAqJHkhaWf2lWQUjuimJCmCgB4Z7Lxzfq0WTR869BIrXaYMvRLTXWXDiTia620cPZTflb4yk-jWkw6zdd9lY8hbii9FqXsl03X5DbbJ8PdW2AaRPDG4GG_Qi18nxOx8-IhIKkEHpUnRZ04aZzeHJ5I9tKvmaZZBa_vJCFimtRBEbv1hvl3Q_1YZ-0eGGA4K7VUQQA0clAJYZtAedqb2ttMNcZl5UoMYoDJhtbAXWVcaULdOiToeU2tnfNOb9JG5q85aIAOtwLGynKnQF_QWoEHkqVWZWyBGQ0aIB4be6TgUN8kPGq8Ssz6gsOezAJwenJ3XLLYjBVD0z2oTYz9PowGutTTa1xppv7wNrZDpwemtlKyXbwbfhEVkANh_8Qc-AI7Vx7VNfaGHAGIt3PBSAAh2mewHrVCTOaavBkAF_cSqn8skNP2SXdhkAX5AUWaGxyvas2DT2a7WxMaGHukDg7B1boT-zXOCSValeRJqDPppaE1uhXsqAt33wealft6b_A0AWCw7wtypsx5wV3I411NdgvEMgT33dll__nW_2nq9HNf2HmsRTQgWLuSI1skWh2y6DBhZGYFRm0N4PxiE_qFihH1zz0o7mzwr7YhCTEYV84cxGWCjVaYbfnnDwENPZbS0vfNQDsHALmjCh_j5sx5hkC1cq3RmMkZ5hCF4pit8KwO8SqCL_JjEHum-0AiX8vkYeywEyyFrX1i7RWC-gjef2xt3CJS9mfa1d5gfam8CvhB0dlsyCobCCZvnkweBIAF3V__5pw_XDzaMISY-WWBGpBJBocTov03UwnXh0pG9BBdwbaaXGOjjGJBiHczE4Htt_pel1JMg0QLAt0YmZ8f5NCyBXQ_qpen8N6ZZlmnf6Siry6e3kxA-thbQFoTWLmHZBppxcHmFqNkQ5CEw6y7GugcMI2OSKUQjSDAj63ofbTkTSPPld4B635oTFjBDOnrAf8H0TLB_nyzQW_yRTCOddWuwjhJm1j2SkM_4LcZNtqldbQeYl8R_4nmVbrN6LGwveDJZOgqSRe6-Uklgb8WKHKF5JVt2N8620R_Dg-wR_r3Nf0lrRlO7kTKkuOOM8Mfm2o39gFGt43xMCBD5aTc0Bht1SLA6w.vCmbqdNCGvhO21KHJC_7EA%22%2C%22account_type%22%3A%22MSA%22%2C%22login_hint%22%3A%22laithsalman2522003@gmail.com%22%2C%22e%22%3A%2247716269%22%7D
+Expires On: 13370226774783666
+
+Host Key: .msn.com
+Cookie Name: lt
+Path: /
+Cookie: t=EwBYA6AEAAAU+FEkrYVKODxcga16pzW/y5vRf68AAS1E1BI3FsYEN74u2v8YADjnCKIjylP87MRxiulvVOSkT0ADdFnaQI+tc/GCuRcapP7wvdHa8645/3ZrcDRHMm93FxQEi3qbtWI6BwU2rn9HvqztOHz6nCWWkRMwNTTyhfj9nIhoEFiG6c/AgJ5BQ22XOCqN8MPK3gaOpLvPWSpO5aoW/y0IjuqE9L3iU07oHZy9KouyLr26ujSfUfJ/EhrRJ/97eo+hdHP2ATB596tlHYsteX9OPzQMW4Qj2ECB0bcJuB70XPsHJQ3kQ/uagOHDKU6cS4IuRidWzsiW+53KYCC9hHZeqoxIZoBwsLnM7o8rxx3VdLax40wp6MJrHJoQZgAAEFo7aJjrjulDNtn8uLTOHXcgAnexMQpS1x+YyvFW5r119FvCGcAlk0hwA81MASSS+27Zd6ZgMHGJhFmA9qVCVHwkWJ/x8b443p07tQF1JUi6tBmS8kF+byGRPqxEfDsfI6hrJx/U3aAcIsFotKF1/odwOMVHf5hvEZjwk4yO1Y4vyzbnsk6OUzv4iXaoRwPI6hlMtKUQ85xPVPhTLpbG0DMNpVfYql6eAma8ETcqkdFxREmOPPnpglpTSRfK6H32wjc9R1uqIlukCszi3gxZi4da40QlfG3eAktYWmHc5bJ0wWmAsWTL2TIk8OxCmNy9d6BNP1BLpX2EkDouIbveX/1C5AsyRB/9tJ0+rRdc9gby+yxnphe/arvTcB35IZBVtbd9gegP/ZHsAJyrJSYRriezy2f4Yf9T1vxRHPh4pXKa7BqtY5UQtac8TQtUGA/rKMiO76FzsNWNqsHDm+gSPdRnYKc9UFuo5SSAuIHBOrm0uj/q/c55wDJhiokm38HG1mKoEReC5JnM8hD5JFWT7mE8IoaZB0sC5Ch1XkFxrX34/IGO2f0ya/UZ/90tixpHZ11i2AL9BSSKL+t2a+86lAohpfaYzWajVt3j8gyPXHKnvpy/mXIBlTHo52gQpJrPP3ZZd0atxoQsXQ66amSSZU4kZxvT13rWGddIzZoX1GfxPKUQ9uYhxKmlpPemOGTcSN2BXM4XqCiwOzJkqPUQ0RGtwOLnv2ZUPL13wnauQZC8YTlZAg==&p=
+Expires On: 13372213974817652
+

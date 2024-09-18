@@ -1,0 +1,224 @@
+URL: https://www.google.com/
+Title: Google
+Visited Time: 10/06/2024 11:00:39
+
+URL: https://ctftime.org/profile/
+Title: Just a moment...
+Visited Time: 27/03/2024 21:42:24
+
+URL: https://ctftime.org/profile/?__cf_chl_rt_tk=WNxQ3fB9kaDHCb1tPfr9WE3dbJHw_4dTpT541icZfd0-1711575743-0.0.1.1-1535
+Title: Just a moment...
+Visited Time: 27/03/2024 21:42:24
+
+URL: https://ctftime.org/profile/?__cf_chl_tk=WNxQ3fB9kaDHCb1tPfr9WE3dbJHw_4dTpT541icZfd0-1711575743-0.0.1.1-1535
+Title: Just a moment...
+Visited Time: 27/03/2024 21:42:28
+
+URL: https://ctftime.org/login/?next=/profile/
+Title: CTFtime.org / All about CTF (Capture The Flag)
+Visited Time: 27/03/2024 21:42:29
+
+URL: https://ctftime.org/login/github/?next=/login/
+Title: Sign in to GitHub · GitHub
+Visited Time: 27/03/2024 21:42:36
+
+URL: https://github.com/login/oauth/authorize?scope=user%3Aemail&state=6UCeW6COx8D8yIaVMRgvXJbPaeiti6Aw&redirect_uri=https%3A%2F%2Fctftime.org%2Fcomplete%2Fgithub%2F%3Fredirect_state%3D6UCeW6COx8D8yIaVMRgvXJbPaeiti6Aw&response_type=code&client_id=78669731cf16bc2ab97f&next=/login/
+Title: Sign in to GitHub · GitHub
+Visited Time: 27/03/2024 21:42:36
+
+URL: https://github.com/login?client_id=78669731cf16bc2ab97f&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D78669731cf16bc2ab97f%26next%3D%252Flogin%252F%26redirect_uri%3Dhttps%253A%252F%252Fctftime.org%252Fcomplete%252Fgithub%252F%253Fredirect_state%253D6UCeW6COx8D8yIaVMRgvXJbPaeiti6Aw%26response_type%3Dcode%26scope%3Duser%253Aemail%26state%3D6UCeW6COx8D8yIaVMRgvXJbPaeiti6Aw
+Title: Sign in to GitHub · GitHub
+Visited Time: 27/03/2024 21:42:41
+
+URL: https://github.com/session
+Title: Sign in to GitHub · GitHub
+Visited Time: 27/03/2024 21:42:52
+
+URL: https://github.com/sessions/two-factor/app
+Title: Two-factor authentication · GitHub
+Visited Time: 27/03/2024 21:43:56
+
+URL: https://github.com/login/oauth/authorize?client_id=78669731cf16bc2ab97f&next=%2Flogin%2F&redirect_uri=https%3A%2F%2Fctftime.org%2Fcomplete%2Fgithub%2F%3Fredirect_state%3D6UCeW6COx8D8yIaVMRgvXJbPaeiti6Aw&response_type=code&scope=user%3Aemail&state=6UCeW6COx8D8yIaVMRgvXJbPaeiti6Aw
+Title: CTFtime.org / All about CTF (Capture The Flag)
+Visited Time: 27/03/2024 21:44:15
+
+URL: https://ctftime.org/complete/github/?redirect_state=6UCeW6COx8D8yIaVMRgvXJbPaeiti6Aw&code=a1c81d40612f3da93518&state=6UCeW6COx8D8yIaVMRgvXJbPaeiti6Aw
+Title: CTFtime.org / All about CTF (Capture The Flag)
+Visited Time: 27/03/2024 21:44:16
+
+URL: https://ctftime.org/login/
+Title: CTFtime.org / All about CTF (Capture The Flag)
+Visited Time: 27/03/2024 21:44:16
+
+URL: https://ctftime.org/profile
+Title: CTFtime.org / All about CTF (Capture The Flag)
+Visited Time: 27/03/2024 21:44:28
+
+URL: https://ctftime.org/team/281975
+Title: CTFtime.org / Toasters
+Visited Time: 27/03/2024 21:45:02
+
+URL: https://ctftime.org/team/281975/edit/
+Title: CTFtime.org / All about CTF (Capture The Flag)
+Visited Time: 27/03/2024 21:44:55
+
+URL: http://cbs.wondershare.com/go.php?m=ic&back_url=https%3A%2F%2Fdrfone.wondershare.com%2Fthankyou%2Fdrfone-restore-social-app.html%3Ff%3Dpro-dr.fone&client_sign={98e3a695-97c9-4a2c-8ac5-7a2ef4224751G}&m_nProductID=4376&installtime=1712929323&product_version=13.5.11.349
+Title: Install Dr.Fone Windows Successfully!
+Visited Time: 12/04/2024 13:42:06
+
+URL: https://cbs.wondershare.com/go.php?m=ic&back_url=https%3A%2F%2Fdrfone.wondershare.com%2Fthankyou%2Fdrfone-restore-social-app.html%3Ff%3Dpro-dr.fone&client_sign={98e3a695-97c9-4a2c-8ac5-7a2ef4224751G}&m_nProductID=4376&installtime=1712929323&product_version=13.5.11.349
+Title: Install Dr.Fone Windows Successfully!
+Visited Time: 12/04/2024 13:42:06
+
+URL: https://drfone.wondershare.com/thankyou/drfone-restore-social-app.html?f=pro-dr.fone
+Title: Install Dr.Fone Windows Successfully!
+Visited Time: 12/04/2024 13:42:06
+
+URL: https://drfone.wondershare.com/thankyou/install-drfone.html?f=pro-dr.fone
+Title: Install Dr.Fone Windows Successfully!
+Visited Time: 12/04/2024 13:42:06
+
+URL: https://www.google.com/search?q=w3schools+python+exercises&sca_esv=b51f433a1d832308&source=hp&ei=7t80ZvO6BPS9i-gP6I62sA8&iflsig=ANes7DEAAAAAZjTt_tlIkb9AyS6Nzwdz0aQ6HgID65qH&oq=w3schools+python+exercises%5C&gs_lp=Egdnd3Mtd2l6Iht3M3NjaG9vbHMgcHl0aG9uIGV4ZXJjaXNlc1wqAggCMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEj2XVC2EVjqXXABeACQAQCYAc0BoAGRC6oBBTAuOS4xuAEDyAEA-AEBmAILoALPC6gCBcICChAuGAMY6gIYjwHCAgoQABgDGOoCGI8BwgINEC4YAxjUAhjqAhiPAcICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAhEQLhiABBixAxjRAxiDARjHAcICDhAuGIAEGLEDGNEDGMcBwgILEAAYgAQYsQMYigXCAgsQLhiABBixAxiDAcICFBAuGIAEGLEDGIMBGMcBGIoFGK8BmAMLkgcFMS45LjGgB6w2&sclient=gws-wiz
+Title: w3schools python exercises - Google Search
+Visited Time: 03/05/2024 13:01:04
+
+URL: https://www.w3schools.com/python/python_exercises.asp
+Title: Python Exercises
+Visited Time: 03/05/2024 13:01:06
+
+URL: https://www.google.com/search?q=psut+portal&rlz=1C1PNBB_enJO1099JO1100&oq=psut+portal&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDINCAcQLhivARjHARiABDIHCAgQABiABDIHCAkQABiABNIBCDE4MzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+Title: psut portal - Google Search
+Visited Time: 03/05/2024 13:01:30
+
+URL: https://portal.psut.edu.jo/
+Title: PSUT Portal
+Visited Time: 03/05/2024 13:01:33
+
+URL: https://portal.psut.edu.jo/Home
+Title: الصفحة الرئيسية
+Visited Time: 03/05/2024 13:04:02
+
+URL: https://portal.psut.edu.jo/Home/Elearning?target=_blank
+Title: Dashboard
+Visited Time: 03/05/2024 13:04:05
+
+URL: https://elearning.psut.edu.jo/sso.php?token=NGU3Mjg1MGUwMzZjYTM5ZDllNjFjYWUyMTZlY2IyZmQ=&std_id=20980&type=s
+Title: Dashboard
+Visited Time: 03/05/2024 13:04:05
+
+URL: https://elearning.psut.edu.jo/
+Title: Dashboard
+Visited Time: 03/05/2024 13:04:05
+
+URL: https://elearning.psut.edu.jo/my/
+Title: Dashboard
+Visited Time: 03/05/2024 13:04:05
+
+URL: https://elearning.psut.edu.jo/my/courses.php
+Title: My courses
+Visited Time: 03/05/2024 13:04:08
+
+URL: https://elearning.psut.edu.jo/course/view.php?id=6799
+Title: Course: Introduction to Data Science
+Visited Time: 03/05/2024 13:04:12
+
+URL: https://elearning.psut.edu.jo/mod/url/view.php?id=240209
+Title: 14140_2023_2: https://www.w3resource.com/python-exercises/
+Visited Time: 03/05/2024 13:04:18
+
+URL: https://www.w3resource.com/python-exercises/
+Title: Python Exercises, Practice, Solution - w3resource
+Visited Time: 03/05/2024 13:04:20
+
+URL: https://www.w3resource.com/python-exercises//
+Title: Python Exercises, Practice, Solution - w3resource
+Visited Time: 03/05/2024 13:04:43
+
+URL: https://www.w3resource.com/python-exercises/list/
+Title: Python List - Exercises, Practice, Solution - w3resource
+Visited Time: 03/05/2024 13:04:51
+
+URL: https://www.w3resource.com/python-exercises/list-advanced/index.php
+Title: Python Advanced List - Exercises, Practice, Solution
+Visited Time: 03/05/2024 13:04:54
+
+URL: https://www.w3resource.com/python-exercises/list-advanced/python-list-advanced-exercise-1.php
+Title: Python List - Reverse a list at a specific location
+Visited Time: 03/05/2024 13:05:34
+
+URL: https://www.w3resource.com/python-exercises/list-advanced/python-list-advanced-exercise-2.php
+Title: Python List - Length of the longest increasing sub-sequence
+Visited Time: 03/05/2024 13:13:48
+
+URL: https://www.w3resource.com/python-exercises/list-advanced/python-list-advanced-exercise-3.php
+Title: Python List - Permutations of the members of a list
+Visited Time: 03/05/2024 13:19:29
+
+URL: https://www.google.com/search?gs_ssp=eJzj4tTP1TewzEouK1ZgNGB0YPBir8wvLSlNSgUAUQAG7g&q=youtube&rlz=1C1PNBB_enJO1099JO1100&oq=YOU&gs_lcrp=EgZjaHJvbWUqEwgBEC4YgwEYxwEYsQMY0QMYgAQyBggAEEUYOTITCAEQLhiDARjHARixAxjRAxiABDINCAIQLhiDARixAxiABDINCAMQABiDARixAxiABDIKCAQQABixAxiABDIKCAUQABixAxiABDINCAYQABiDARixAxiABDIGCAcQBRhA0gEIMzM4OGowajSoAgCwAgE&sourceid=chrome&ie=UTF-8
+Title: youtube - Google Search
+Visited Time: 10/06/2024 09:19:02
+
+URL: https://www.youtube.com/
+Title: YouTube
+Visited Time: 10/06/2024 09:19:07
+
+URL: https://www.youtube.com/?themeRefresh=1
+Title: YouTube
+Visited Time: 10/06/2024 09:19:06
+
+URL: https://www.youtube.com/results?search_query=4K%27
+Title: 4K' - YouTube
+Visited Time: 10/06/2024 09:19:25
+
+URL: https://www.youtube.com/watch?v=IMV3CHy9uzE
+Title: 🔥 Cozy Fireplace 4K (12 HOURS). Fireplace with Crackling Fire Sounds. Fireplace Burning 4K - YouTube
+Visited Time: 10/06/2024 09:19:24
+
+URL: https://www.youtube.com/watch?v=KLuTLF3x9sA
+Title: Norway 4K • Scenic Relaxation Film with Peaceful Relaxing Music and Nature Video Ultra HD - YouTube
+Visited Time: 10/06/2024 09:19:26
+
+URL: https://www.google.com/search?q=furm&sca_esv=f7a1df2a53b528d6&source=hp&ei=19xmZpL0G7eJxc8P3fC66As&iflsig=AL9hbdgAAAAAZmbq5y1ZKMQGp5uRj45O2y0yJT5ZU3CP&ved=0ahUKEwjSu5r68NCGAxW3RPEDHV24Dr0Q4dUDCA0&uact=5&oq=furm&gs_lp=Egdnd3Mtd2l6IgRmdXJtMgUQABiABDIFEAAYgAQyCxAuGIAEGNEDGMcBMgUQLhiABDIFEC4YgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEizElAAWLkJcAB4AJABAJgBiASgAesMqgEJMi0xLjEuMC4yuAEDyAEA-AEBmAIEoAKADcICERAuGIAEGLEDGNEDGIMBGMcBwgILEC4YgAQYsQMYgwHCAgsQABiABBixAxiDAcICChAuGNEDGAMYxwHCAg4QLhiABBixAxiDARiKBcICCBAuGIAEGLEDwgIIEAAYgAQYsQPCAg4QABiABBixAxiDARiKBZgDAJIHBzItMS4xLjKgB8op&sclient=gws-wiz
+Title: furm - Google Search
+Visited Time: 10/06/2024 11:00:45
+
+URL: https://www.google.com/search?q=cpre+temp&rlz=1C1PNBB_enJO1099JO1100&oq=cpre+temp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIJCAcQABgKGIAEMgkICBAAGAoYgAQyCQgJEAAYChiABNIBCDM0MTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+Title: cpre temp - Google Search
+Visited Time: 10/06/2024 11:00:51
+
+URL: https://www.google.com/search?q=furm&sca_esv=f7a1df2a53b528d6&source=hp&ei=19xmZpL0G7eJxc8P3fC66As&iflsig=AL9hbdgAAAAAZmbq5y1ZKMQGp5uRj45O2y0yJT5ZU3CP&ved=0ahUKEwjSu5r68NCGAxW3RPEDHV24Dr0Q4dUDCA0&uact=5&oq=furm&gs_lp=Egdnd3Mtd2l6IgRmdXJtMgUQABiABDIFEAAYgAQyCxAuGIAEGNEDGMcBMgUQLhiABDIFEC4YgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEizElAAWLkJcAB4AJABAJgBiASgAesMqgEJMi0xLjEuMC4yuAEDyAEA-AEBmAIEoAKADcICERAuGIAEGLEDGNEDGIMBGMcBwgILEC4YgAQYsQMYgwHCAgsQABiABBixAxiDAcICChAuGNEDGAMYxwHCAg4QLhiABBixAxiDARiKBcICCBAuGIAEGLEDwgIIEAAYgAQYsQPCAg4QABiABBixAxiDARiKBZgDAJIHBzItMS4xLjKgB8op&sclient=gws-wiz#cobssid=s
+Title: furm - Google Search
+Visited Time: 10/06/2024 11:01:08
+
+URL: https://www.alcpu.com/CoreTemp/
+Title: Core Temp
+Visited Time: 10/06/2024 11:00:55
+
+URL: https://www.merriam-webster.com/dictionary/furm
+Title: Furm Definition & Meaning - Merriam-Webster
+Visited Time: 10/06/2024 11:00:56
+
+URL: https://furmgroup.co.nz/
+Title: FURM® Group
+Visited Time: 10/06/2024 11:01:02
+
+URL: https://www.google.com/search?q=furmark&sca_esv=f7a1df2a53b528d6&ei=3NxmZuvtNteOxc8Pp8C2kAc&oq=&gs_lp=Egxnd3Mtd2l6LXNlcnAiACoCCAEyExAAGIAEGEMYtAIYigUY6gLYAQIyExAAGIAEGEMYtAIYigUY6gLYAQIyExAAGIAEGEMYtAIYigUY6gLYAQIyExAAGIAEGEMYtAIYigUY6gLYAQIyExAAGIAEGEMYtAIYigUY6gLYAQIyExAAGIAEGEMYtAIYigUY6gLYAQIyExAAGIAEGEMYtAIYigUY6gLYAQIyExAAGIAEGEMYtAIYigUY6gLYAQIyExAAGIAEGEMYtAIYigUY6gLYAQIyExAAGIAEGEMYtAIYigUY6gLYAQIyEBAAGAMYtAIY6gIYjwHYAQMyEBAAGAMYtAIY6gIYjwHYAQMyEBAuGAMYtAIY6gIYjwHYAQMyEBAuGAMYtAIY6gIYjwHYAQMyEBAAGAMYtAIY6gIYjwHYAQNIwjBQxRNYxRNwBHgAkAEBmAHcAaAB3AGqAQMyLTG4AQHIAQD4AQGYAgSgAiKoAg_CAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICExAuGIAEGLADGEMYyAMYigXYAQHCAhkQLhiABBiwAxjRAxhDGMcBGMgDGIoF2AEBmAMJiAYBkAYKugYECAEYCLoGBAgCGAe6BgYIAxABGAqSBwE0oAf3CA&sclient=gws-wiz-serp
+Title: furmark - Google Search
+Visited Time: 10/06/2024 11:01:17
+
+URL: https://www.alcpu.com/CoreTemp/#google_vignette
+Title: Core Temp
+Visited Time: 10/06/2024 11:01:19
+
+URL: https://www.geeks3d.com/furmark/
+Title: FurMark Homepage
+Visited Time: 10/06/2024 11:01:26
+
+URL: https://www.geeks3d.com/furmark/downloads/
+Title: FurMark Downloads
+Visited Time: 10/06/2024 11:02:02
+
+URL: https://www.geeks3d.com/dl/show/755
+Title: FurMark 2 download | Geeks3D
+Visited Time: 10/06/2024 11:02:05
+

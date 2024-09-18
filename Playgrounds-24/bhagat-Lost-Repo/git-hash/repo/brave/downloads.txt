@@ -1,0 +1,477 @@
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672620/mod_resource/content/0/OS-Chapter%201-Introduction.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\os\OS-Chapter 1-Introduction.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672624/mod_resource/content/0/OS-Chapter%202-Operating%20System%20Structures.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\os\OS-Chapter 2-Operating System Structures.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672627/mod_resource/content/0/OS-Chapter%203-Processes.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\os\OS-Chapter 3-Processes.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672622/mod_resource/content/0/OS-Chapter%204-Threads.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\os\OS-Chapter 4-Threads.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672619/mod_resource/content/0/OS-Chapter%205-Process%20Synchronization.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\os\OS-Chapter 5-Process Synchronization.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672621/mod_resource/content/0/OS-Chapter6-CPU%20Scheduling.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\os\OS-Chapter6-CPU Scheduling.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672623/mod_resource/content/0/OS-Chapter7-Deadlocks.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\os\OS-Chapter7-Deadlocks.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672625/mod_resource/content/0/OS-Chapter8-Main%20Memory.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\os\OS-Chapter8-Main Memory.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672628/mod_resource/content/0/OS-Chapter9-Virtual%20Memory.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\os\OS-Chapter9-Virtual Memory.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672626/mod_resource/content/0/OS-Chapter17-Distributed%20Systems.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\os\OS-Chapter17-Distributed Systems.pdf
+
+Download URL: https://download.battle.net/en-us/?product=bnetdesk
+Local Path: C:\Users\laith\Downloads\Battle.net-Setup.exe
+
+Download URL: https://customers.jam-software.de/downloadTrialProcess.php
+Local Path: C:\Users\laith\Downloads\TreeSizeFreeSetup.exe
+
+Download URL: https://cloud.oracle.com/compute/instances/ocid1.instance.oc1.me-jeddah-1.anvgkljrpo6oxeicltt465y2vapbvkncymxulg3zz4e4hd3yoha5fpo2i4qq/consoleconnections?region=me-jeddah-1
+Local Path: C:\Users\laith\OneDrive\Desktop\keys\ssh-key-2023-08-12.key
+
+Download URL: https://cloud.oracle.com/compute/instances/ocid1.instance.oc1.me-jeddah-1.anvgkljrpo6oxeicltt465y2vapbvkncymxulg3zz4e4hd3yoha5fpo2i4qq/consoleconnections?region=me-jeddah-1
+Local Path: C:\Users\laith\OneDrive\Desktop\keys\ssh-key-2023-08-12.key.pub
+
+Download URL: https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2.41.0.3-64-bit.exe
+Local Path: C:\Users\laith\Downloads\Git-2.41.0.3-64-bit.exe
+
+Download URL: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+Local Path: C:\Users\laith\Downloads\putty-64bit-0.78-installer.msi
+
+Download URL: https://www.cog-genomics.org/plink/
+Local Path: C:\Users\laith\Downloads\plink_win64_20230116.zip
+
+Download URL: https://mega.nz/file/oFpVDSJQ#XJ1th2ktJpUM44asMfDZdW4aCj9gGNLLjTX6j3GuH8s
+Local Path: C:\Users\laith\OneDrive\Desktop\keys\Stardew.Valley.v1.5.6-0xdeadc0de.zip
+
+Download URL: https://spacedesk.net/downloadidd64
+Local Path: C:\Users\laith\Downloads\spacedesk_driver_Win_10_64_v1069_BETA.msi
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1677053/mod_resource/content/1/Ch07-3%20Advanced%20PL-SQL%20Triggers%20Hands-%20On.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\DBS\Ch07-3 Advanced PL-SQL Triggers Hands- On.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1677054/mod_resource/content/1/Ch08%20Virtual%20Private%20Database%20%28VPD%29%20-%20Hands-On.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\DBS\Ch08 Virtual Private Database (VPD) - Hands-On.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1691517/mod_resource/content/1/Ch09%20Auditing%20-%20Hands-On.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\DBS\Ch09 Auditing - Hands-On.pdf
+
+Download URL: https://mega.nz/file/oFpVDSJQ#XJ1th2ktJpUM44asMfDZdW4aCj9gGNLLjTX6j3GuH8s
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/2400?tab=files&file_id=72625
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\SMAPI 3.18.4-2400-3-18-4-1687642414.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1915?tab=files&file_id=72726
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Content Patcher 1.29.3-1915-1-29-3-1687810857.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/3753?tab=files&file_id=73020
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\-Stardew Valley Expanded--3753-1-14-24-1688505756.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/7089?tab=files&file_id=50477
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Custom NPC Exclusions v1.4.0-7089-1-4-0-1644252628.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/6529?tab=files&file_id=33289
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Expanded Preconditions Utility-6529-1-0-1-1608576863.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/9633?tab=files&file_id=69902
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Extra Map Layers-9633-0-3-7-1681995074.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/3231?tab=files&file_id=53023
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Farm Type Manager v1.16.0-3231-1-16-0-1649622863.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1720?tab=files&file_id=73381
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Json Assets 1.10.14-1720-1-10-14-1689352905.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/10747?tab=files&file_id=50147
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\SAAT 1.1.2-10747-1-1-2-1643684073.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/5005?tab=files&file_id=33312
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Shop Tile Framework-5005-1-0-9-1608583142.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1348?tab=files&file_id=74247
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\SpaceCore 1.14.2-1348-1-14-2-1691266008.zip
+
+Download URL: https://www.win-rar.com/download.html?&L=0
+Local Path: C:\Users\laith\Downloads\winrar-x64-623.exe
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/3753?tab=files&file_id=70763
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Grandpa's Farm-3753-1-14-19-1683492738.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/3753?tab=files&file_id=70765
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Immersive Farm 2 Remastered-3753-1-14-19-1683492877.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/533?tab=files&file_id=72693
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Skip Intro 1.9.13-533-1-9-13-1687733278.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/239?tab=files&file_id=72843
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\NPC Map Locations 2.11.5-239-2-11-5-1688072516.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/4?tab=files&file_id=72679
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\CJB Cheats Menu 1.33.1-4-1-33-1-1687729584.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/93?tab=files&file_id=72902
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\CJB Item Spawner 2.2.5-93-2-2-5-1688245148.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1401?tab=files&file_id=72695
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Tractor Mod 4.16.5-1401-4-16-5-1687733484.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1063?tab=files&file_id=72682
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Automate 1.28.4-1063-1-28-4-1687731976.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1726?tab=files&file_id=59345
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\PyTK - Platonymous Toolkit-1726-1-23-2-1661381138.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1820?tab=files&file_id=67640
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\TMXL Map Toolkit-1820-1-24-1-1678205044.zip
+
+Download URL: https://github.com/Annosz/UIInfoSuite2/releases/tag/2.2.9
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\UIInfoSuite2.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/963?tab=files&file_id=59479
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\SkullCavernElevator-963-1-5-0-1661683382.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/229?tab=files&file_id=15429
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\GiftTasteHelper 2.9.1-229-2-9-1-1553470804.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1601?tab=files&file_id=33319
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Winter Grass-1601-2-0-3-1608585082.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/3213?tab=files&file_id=64039
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Stardew Hack-3213-6-0-1671188736.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/5098?tab=files&file_id=73377
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Generic Mod Config Menu 1.11.2-5098-1-11-2-1689343508.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1536?tab=files&file_id=66339
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\MailFrameworkMod-v1.15.0-1536-1-15-0-1675813265.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/5450?tab=files&file_id=61330
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Seasonal Cute Characters-5450-4-0-3-1665329690.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/7286?tab=files&file_id=70689
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Ridgeside Village-7286-2-4-1-1683408138.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/5371?tab=files&file_id=56774
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\AntiSocialNPCs-5371-1-0-6-1656691163.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/8626?tab=files&file_id=66993
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Custom Companions 3.0.0-8626-3-0-0-1677202603.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/7495?tab=files&file_id=54222
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Show Birthdays 1.3.0-7495-1-3-0-1652192602.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/2544?tab=files&file_id=65335
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Canon Friendly Dialogue Expansion-2544-2-1-3-1674100945.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/2080?tab=files&file_id=14926
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Better Artisan Good Icons-2080-1-5-0-1551768141.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/859?tab=files&file_id=66060
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Better Ranching-859-1-9-2-1675318627.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1845?tab=files&file_id=64048
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Bigger Backpack-1845-6-0-1671189050.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/3214?tab=files&file_id=68676
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Wear More Rings-3214-6-4-1679925179.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1738?tab=files&file_id=17079
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Friends Forever 1.2.3-1738-1-2-3-1559801839.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1993?tab=files&file_id=46800
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Seasonal Buildings-1993-1-3-4-1635955677.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/552?tab=files&file_id=31461
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Babies Take After Spouse v1-552-1-4-1-1601156711.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/3853?tab=files&file_id=62104
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Content Patcher Animations 1.2.4-3853-1-2-4-1667084621.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/3109?tab=files&file_id=47607
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Automatic Gates 2.5.3-3109-2-5-3-1638313995.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/299?tab=files&file_id=1899
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Bathroom after 2nd Houseupgrade 'for 1.1'-299-1-4.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/6414?tab=files&file_id=66672
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Quest Framework 1.4.3-6414-1-4-3-1676467536.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1254?tab=files&file_id=68644
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Custom Furniture-1254-1-14-3-1679863987.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1180?tab=files&file_id=14940
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\No Fence Decay-1180-1-5-0-1551775538.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/5398?tab=files&file_id=49608
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\More Grass-5398-1-1-7-1642651204.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1926?tab=files&file_id=36130
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Artisan Valley-1926-3-0-21-1611064240.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1935?tab=files&file_id=33323
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\PPJA Mega Pack-1935-NA-1608588583.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/6227?tab=files&file_id=44324
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Multiple Spouses-6227-3-2-1-1629756733.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/6630?tab=files&file_id=43542
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Custom Spouse Patio-6630-0-10-0-1627905852.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/5969?tab=files&file_id=68318
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Seasonal Cute Characters - SVE-5969-2-3-4-1679463516.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/3043?tab=files&file_id=50410
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Custom Music-3043-1-9-0-1644120320.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/169?tab=files&file_id=72673
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\TimeSpeed 2.7.6-169-2-7-6-1687724463.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/8897?tab=files&file_id=47659
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Visible Fish 0.3.5-8897-0-3-5-1638379052.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1089?tab=files&file_id=72688
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Fast Animations 1.11.6-1089-1-11-6-1687732543.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/3169?tab=files&file_id=33140
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Horse Replacements-3169-1-1-5-1607969473.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/2872?tab=files&file_id=23299
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\CP - Coii's Girls Sets Pack-2872-1-4-1-1580107074.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/2847?tab=files&file_id=33359
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Hats Won't Mess Up Hair-2847-1-4-0-1608612717.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/9365?tab=files&file_id=62098
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Dynamic Game Assets 1.4.4-9365-1-4-4-1667084342.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/1213?tab=files&file_id=64868
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Natural Color-1213-9-2-1673272688.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/5235?tab=files&file_id=23042
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Auto Fishing-5235-1-0-0-1579446504.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/3094?tab=files&file_id=66940
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Ladder Locator-3094-1-4-3-1677098645.zip
+
+Download URL: https://www.virtualbox.org/wiki/Downloads
+Local Path: C:\Users\laith\Downloads\VirtualBox-7.0.10-158379-Win.exe
+
+Download URL: https://www.fosshub.com/qBittorrent.html
+Local Path: C:\Users\laith\Downloads\qbittorrent_4.5.4_x64_setup.exe
+
+Download URL: chrome-extension://lgjmpdmojkpocjcopdikifhejkkjglho/extension/brave_webtorrent.html?https://kali.download/base-images/kali-2023.2/kali-linux-2023.2a-installer-purple-amd64.iso.torrent
+Local Path: C:\Users\laith\Downloads\kali-linux-2023.2a-installer-purple-amd64.iso.torrent
+
+Download URL: https://www.kali.org/get-kali/#kali-virtual-machines
+Local Path: C:\Users\laith\kali\kali-linux-2023.2-virtualbox-amd64.7z
+
+Download URL: https://elearning.psut.edu.jo/mod/folder/view.php?id=202305
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\Material-20230813.zip
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1674694/mod_assign/introattachment/0/Lab%202%20summer%202023.docx?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\Lab 2 summer 2023.docx
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1674694/assignsubmission_file/submission_files/460970/lab2%20sol.txt?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\lab2 sol.txt
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1676222/mod_assign/introattachment/0/OS%20lab%204%20summer%202023.docx?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\OS lab 4 summer 2023.docx
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1676222/assignsubmission_file/submission_files/464366/lab%204%20sol.txt?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\lab 4 sol.txt
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1676842/mod_assign/introattachment/0/lab%206%20summer%202023.docx?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\lab 6 summer 2023.docx
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1676842/assignsubmission_file/submission_files/466007/lab%206%20sol.py?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\lab 6 sol.py
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1677444/mod_assign/introattachment/0/Clients.txt?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\Clients.txt
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1677444/mod_assign/introattachment/0/Lab%207%20summer%202023.docx?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\Lab 7 summer 2023.docx
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1677609/mod_assign/introattachment/0/Lab%208%20summer%202023.docx?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\Lab 8 summer 2023.docx
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1677609/mod_assign/introattachment/0/Questions.txt?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\Questions.txt
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1687049/mod_assign/introattachment/0/Lab%209%20summer%202023.docx?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\Lab 9 summer 2023.docx
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1687049/mod_assign/introattachment/0/sample.txt?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\sample.txt
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1687049/assignsubmission_file/submission_files/470739/sol.py?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\sol.py
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1690082/mod_assign/introattachment/0/Week%2010%20Exercises.docx?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\Week 10 Exercises.docx
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1690082/assignsubmission_file/submission_files/471801/answers.txt?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\answers.txt
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1690082/assignsubmission_file/submission_files/471801/client.py?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\client.py
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1690082/assignsubmission_file/submission_files/471801/server.py?forcedownload=1
+Local Path: C:\Users\laith\OneDrive\Desktop\study\OS lab\server.py
+
+Download URL: https://config.office.com/deploymentsettings
+Local Path: C:\Users\laith\Downloads\Configuration.xml
+
+Download URL: https://www.microsoft.com/en-us/download/details.aspx?id=49117
+Local Path: C:\Users\laith\Downloads\officedeploymenttool_16626-20148.exe
+
+Download URL: https://code.visualstudio.com/docs/?dv=win
+Local Path: C:\Users\laith\Downloads\VSCodeUserSetup-x64-1.81.1.exe
+
+Download URL: https://www.python.org/downloads/
+Local Path: C:\Users\laith\Downloads\python-3.11.4-amd64.exe
+
+Download URL: https://github.com/mrpond/BlockTheSpot/releases/tag/2023.8.14.95
+Local Path: C:\Users\laith\Downloads\chrome_elf.zip
+
+Download URL: https://www.spotify.com/jo-ar/download/windows/
+Local Path: C:\Users\laith\Downloads\SpotifySetup.exe
+
+Download URL: https://github.com/mrpond/BlockTheSpot
+Local Path: C:\Users\laith\OneDrive\Desktop\apps\spotify\BlockTheSpot.bat
+
+Download URL: https://download.overwolf.com/install/Download?PartnerId=4047
+Local Path: C:\Users\laith\Downloads\CurseForge - Installer.exe
+
+Download URL: https://elearning.psut.edu.jo/course/view.php?id=5850
+Local Path: C:\Users\laith\Downloads\OS Mid 1summer  2022.docx
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1677052/mod_resource/content/1/Ch07-2%20Advanced%20PL-SQL%20Cursor%2C%20Procedure%20and%20FunctionHands-%20On.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\DBS\Ch07-2 Advanced PL-SQL Cursor, Procedure and FunctionHands- On.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1677051/mod_resource/content/1/Ch07-1%20Introduction%20to%20PL-SQL%20Hands-%20On.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\DBS\Ch07-1 Introduction to PL-SQL Hands- On.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672798/mod_resource/content/1/Ch06%20View%20and%20SQL%20Row%20Functions%20Hands-%20On.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\DBS\Ch06 View and SQL Row Functions Hands- On.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672755/mod_resource/content/1/Ch05%20Authorization%20Privileges%2C%20and%20Roles%20Hands-On%20.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\DBS\Ch05 Authorization Privileges, and Roles Hands-On .pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672754/mod_resource/content/1/Ch04%20Authentication%20Profiles%2C%20Password%20Policies%20Hands-On.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\DBS\Ch04 Authentication Profiles, Password Policies Hands-On.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672753/mod_resource/content/2/Ch03%20Authentication%20-%20Administration%20of%20Users%20-%20Hands-On.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\DBS\Ch03 Authentication - Administration of Users - Hands-On.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672752/mod_resource/content/1/Ch02%20Security%20Architecture.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\DBS\Ch02 Security Architecture.pdf
+
+Download URL: https://elearning.psut.edu.jo/pluginfile.php/1672751/mod_resource/content/1/Ch01%20Revision%20Database.pdf
+Local Path: C:\Users\laith\OneDrive\Desktop\study\DBS\Ch01 Revision Database.pdf
+
+Download URL: https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html
+Local Path: C:\Users\laith\OneDrive\Desktop\apps\instantclient-basic-windows.x64-21.10.0.0.0dbru.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/17860?tab=files&file_id=74625
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Market Day - Russian-17860-1-1-5-1692121488.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/15216?tab=files&file_id=73662
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Tool Smart Switch-15216-0-7-0-1689946376.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/15290?tab=files&file_id=67337
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Immersive Scarecrows-15290-0-4-4-1677760540.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/14441?tab=files&file_id=63182
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Jier's HD SVE Portraits(Made by Jier and PaulDunstan)-14441-E-g-1-1-8-1669364011.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/10971?tab=files&file_id=65676
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\HD Portraits-10971-1-3-4-1674708369.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/14150?tab=files&file_id=63186
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Jier's HD Vanilla Portraits(Made by Jier and PaulDunstan)-14150-E-g-2-1-5-4-1669370987.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/17714?tab=files&file_id=74578
+Local Path: C:\Users\laith\OneDrive\Desktop\games\Stardew.Valley.v1.5.6-0xdeadc0de\Mods\Reciprocate.zip-17714-1-0-3-1692001300.zip
+
+Download URL: https://login.oracle.com/mysso/signon.jsp
+Local Path: C:\Users\laith\OneDrive\Desktop\apps\DB\WINDOWS.X64_193000_db_home.zip
+
+Download URL: https://www.nexusmods.com/stardewvalley/mods/2196?tab=files&file_id=23987
+Local Path: C:\Users\laith\OneDrive\Desktop\apps\DB\ConvenientChests for SDV1.4-2196-1-5-1-1581681185.zip
+
+Download URL: https://www.minecraft.net/en-us/download
+Local Path: C:\Users\laith\Downloads\MinecraftInstaller.exe
+
+Download URL: https://modrinth.com/mod/sodium/version/mc1.20-0.4.10?hl=en-US
+Local Path: C:\Users\laith\Downloads\sodium-fabric-mc1.20-0.4.10+build.27.jar
+
+Download URL: https://modrinth.com/mod/iris/version/1.6.4+1.20?hl=en-US
+Local Path: C:\Users\laith\Downloads\iris-mc1.20-1.6.4.jar
+
+Download URL: https://adoptium.net/download/
+Local Path: C:\Users\laith\Downloads\OpenJDK17U-jdk_x64_windows_hotspot_17.0.8_7.msi
+
+Download URL: https://github.com/jagrosh/MusicBot/releases/tag/0.3.9
+Local Path: C:\Users\laith\Downloads\JMusicBot-0.3.9.jar
+
+Download URL: https://github.com/fireship-io/tailwind-dashboard
+Local Path: C:\Users\laith\OneDrive\Desktop\study\web\tailwind-dashboard-main.zip
+
+Download URL: https://unsplash.com/photos/phIFdC6lA4E
+Local Path: C:\Users\laith\Downloads\benjamin-voros-phIFdC6lA4E-unsplash.jpg
+
+Download URL: https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows
+Local Path: C:\Users\laith\Downloads\pycharm-professional-2023.2.exe
+
+Download URL: https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
+Local Path: C:\Users\laith\Downloads\pycharm-community-2023.2.exe
+
+Download URL: chrome-extension://lgjmpdmojkpocjcopdikifhejkkjglho/extension/brave_webtorrent.html?https://uploads.online-fix.me:2053/torrents/Phasmophobia/Phasmophobia.v0.9.0.0-OFME.torrent
+Local Path: C:\Users\laith\Downloads\Phasmophobia.v0.9.0.0-OFME.torrent
+
+Download URL: https://www.oculus.com/download_app/?id=1582076955407037
+Local Path: C:\Users\laith\Downloads\OculusSetup.exe
+
+Download URL: https://www.nexusmods.com/site/mods/1?tab=files&file_id=2248
+Local Path: C:\Users\laith\Downloads\Vortex-1-1-9-3-1691400722.exe
+
+Download URL: https://signup.leagueoflegends.com/en-gb/signup/redownload?page_referrer=index
+Local Path: C:\Users\laith\Downloads\Install League of Legends euw.exe
+
+Download URL: https://download.megaup.net/?idurl=0lixLaV5L89JKamcHXUbetiPU0tbFOWj1wQulvXoWxjhc3WI73NDRj0KezN%2FRUzaOqxLKmFA3kk9TCBHs7RxUViN%2BnbYU9fa968MSuM9ZSQtKJ0ihHUwiJDjZrcC4hKT&idfilename=Beat.Saber.v1.31.0.ALL.DLC.r+ar&idfilesize=2.78+GB
+Local Path: C:\Users\laith\Downloads\Beat.Saber.v1.31.0.ALL.DLC.rar
+
+Download URL: https://www.udemy.com/course/securityplus/learn/lecture/14686506#overview
+Local Path: C:\Users\laith\OneDrive\Desktop\CompTIA+Security++601+Study+Guide.pdf
+
+Download URL: https://notepad-plus-plus.org/downloads/v8.5.6/
+Local Path: C:\Users\laith\Downloads\npp.8.5.6.Installer.x64.exe
+
+Download URL: https://cdn.discordapp.com/attachments/1057330415595163730/1104165858235920516/notes.txt
+Local Path: C:\Users\laith\OneDrive\Desktop\notes.txt
+
+Download URL: https://www.opera.com/computer/thanks?ni=eapgx&os=windows
+Local Path: C:\Users\laith\Downloads\OperaGXSetup.exe
+
+Download URL: https://helpx.adobe.com/acrobat/kb/download-64-bit-installer.html
+Local Path: C:\Users\laith\Downloads\Acrobat_DC_Web_x64_WWMUI.zip
+
+Download URL: https://github.com/farag2/Adobe-Acrobat-DC-Setup/blob/master/Adobe_Acrobat_Reader_Pro_DC.ps1
+Local Path: C:\Users\laith\Downloads\Adobe_Acrobat_Reader_Pro_DC.ps1
+
+Download URL: https://github.com/farag2/Utilities/blob/master/Download/Acrobat_Pro_DC_x64.ps1
+Local Path: C:\Users\laith\Downloads\Acrobat_Pro_DC_x64.ps1
+
+Download URL: https://s3.us-east-2.amazonaws.com/ykentuckydocommitted/kckr192mxc/A-Acrobat-Pro-2023-Gdrive-WorkInk-Installe-646235.html?timer=1
+Local Path: C:\Users\laith\Downloads\A-Acrobat-Pro-2023-Gdrive-WorkInk-Installe-646235.zip
+

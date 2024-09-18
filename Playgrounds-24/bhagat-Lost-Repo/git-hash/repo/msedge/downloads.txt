@@ -1,0 +1,48 @@
+Download URL: https://www.stellarinfo.com/thankyou/wdrstd/thankyou.php?c=us
+Local Path: C:\Users\laith\Downloads\StellarDataRecovery-H.exe
+
+Download URL: https://discord.com/
+Local Path: C:\Users\laith\Downloads\DiscordSetup.exe
+
+Download URL: https://store.steampowered.com/about/
+Local Path: C:\Users\laith\Downloads\SteamSetup.exe
+
+Download URL: 
+Local Path: C:\Users\laith\Downloads\startup.exe
+
+Download URL: 
+Local Path: C:\Users\laith\Downloads\startup (1).exe
+
+Download URL: https://www.epicgames.com/site/en-US/home
+Local Path: C:\Users\laith\Downloads\EpicInstaller-15.7.0-47ce7663db064e26aee31ee5a7e6ae83.msi
+
+Download URL: https://www.mozilla.org/en-US/firefox/download/thanks/
+Local Path: C:\Users\laith\Downloads\Firefox Installer.exe
+
+Download URL: https://www.nvidia.com/en-gb/geforce/geforce-experience/
+Local Path: C:\Users\laith\Downloads\GeForce_Experience_v3.27.0.112.exe
+
+Download URL: https://github.com/UB-Mannheim/tesseract/wiki#tesseract-installer-for-windows
+Local Path: C:\Users\laith\Downloads\tesseract-ocr-w64-setup-5.3.3.20231005.exe
+
+Download URL: https://tlauncher.org/en/
+Local Path: C:\Users\laith\Downloads\TLauncher-2.885-Installer-1.1.3.exe
+
+Download URL: https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/393/downloads/paper-1.20.4-393.jar
+Local Path: C:\Users\laith\Downloads\paper-1.20.4-393.jar
+
+Download URL: https://www.oracle.com/java/technologies/downloads/#jdk17-windows
+Local Path: C:\Users\laith\Downloads\jdk-17_windows-x64_bin.exe
+
+Download URL: https://www.audacityteam.org/
+Local Path: C:\Users\laith\Downloads\audacity-win-3.4.2-64bit.exe
+
+Download URL: https://anydesk.com/en/downloads/thank-you?dv=win_exe
+Local Path: C:\Users\laith\Downloads\AnyDesk.exe
+
+Download URL: https://www.7-zip.org/download.html
+Local Path: C:\Users\laith\Downloads\7z2405-x64.exe
+
+Download URL: https://vencord.dev/download/
+Local Path: C:\Users\laith\Downloads\VencordInstaller.exe
+

@@ -1,0 +1,6 @@
+Download URL: https://www.alcpu.com/CoreTemp/#google_vignette
+Local Path: C:\Users\laith\Downloads\Core-Temp-setup-v1.18.1.0.exe
+
+Download URL: https://www.geeks3d.com/dl/show/755
+Local Path: C:\Users\laith\Downloads\FurMark_2.3.0.0_Win64_Setup.exe
+
